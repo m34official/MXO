@@ -1,0 +1,21 @@
+{
+    "type": "Project",
+    "rating": 4,
+    "date": "26/09/2026",
+    "duration": "0 m 30 sec",
+    "isOnLand": "True",
+    "landNextAction": "Explore Button",
+    "landPreview": "Video",
+    "mediaFit": "height",
+    "theme": "Corporate",
+    "titleFont": "Cinzel",
+    "normalFont": "Raleway",
+    "toolUsed": [
+        "ae",
+        "ai",
+        "c4d"
+    ],
+    "projectData": {
+        "catagory": "flayer"
+    }
+}
