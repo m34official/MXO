@@ -106,6 +106,38 @@
       "downloadLink": "https://github.com/yourusername/scripts/raw/main/cmd/network_reset.bat",
       "createdAt": "2024-01-10",
       "updatedAt": "2024-01-10"
+    },
+    {
+      "id": "batch-rename",
+      "title": "Batch Rename Layers",
+      "type": "after_effects",
+      "language": "ExtendScript",
+      "description": "Renames all selected layers with a prefix + running index.",
+      "thumb": "https://cdn.example.com/thumbs/batch-rename.webp",
+      "intro": "https://cdn.example.com/videos/batch-rename-intro.mp4",
+      "tutorial": "https://cdn.example.com/videos/batch-rename-tutorial.mp4",
+      "guide": [
+        {
+          "title": "Open the Scripts menu",
+          "description": "In After Effects go to File → Scripts → Run Script File…",
+          "image": "https://cdn.example.com/guides/rename/step-1.png"
+        },
+        {
+          "title": "Select your layers",
+          "description": "Select the layers you want to rename in the timeline.",
+          "image": "https://cdn.example.com/guides/rename/step-2.png"
+        },
+        {
+          "title": "Enter a prefix and run",
+          "description": "Type a prefix like 'shot_' and hit Rename.",
+          "image": "https://cdn.example.com/guides/rename/step-3.png",
+          "code": "File > Scripts > Run Script File"
+        }
+      ],
+      "useCase": "When exporting multi-shot comps you need consistent layer names.",
+      "setupInstructions": "1. Install the script in the Scripts folder\n2. Restart After Effects",
+      "code": "...",
+      "downloadLink": "https://example.com/batch-rename.jsx"
     }
   ],
   "categories": [
