@@ -1,0 +1,49 @@
+name: Validate appConfig
+
+on:
+  push:
+    paths: ['appConfig/**']
+  pull_request:
+    paths: ['appConfig/**']
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: JSON syntax check (appConfig)
+        run: |
+          fail=0
+          for f in appConfig/*.json; do
+            [ -e "$f" ] || continue
+            if python3 -m json.tool "$f" > /dev/null 2>&1; then
+              echo "✅ $f"
+            else
+              echo "❌ BROKEN JSON: $f"
+              fail=1
+            fi
+          done
+          exit $fail
+
+      - name: Required keys check
+        run: |
+          fail=0
+          check() {
+            f="$1"; key="$2"
+            if [ -f "$f" ]; then
+              if python3 -c "import json,sys; d=json.load(open('$f')); sys.exit(0 if '$key' in d else 1)"; then
+                echo "✅ $f has '$key'"
+              else
+                echo "❌ $f missing '$key'"
+                fail=1
+              fi
+            fi
+          }
+          check appConfig/projects.json projects
+          check appConfig/scripts.json scripts
+          check appConfig/software.json software
+          check appConfig/landingContent.json posts
+          check appConfig/music.json tracks
+          check appConfig/aboutContent.json hero
+          exit $fail
