@@ -119,6 +119,22 @@
         "haha": 0,
         "fire": 0
       }
+    },
+    {
+      "id": "post-1791044753867",
+      "type": "video",
+      "title": "Automation is just laziness with good architecture :)",
+      "category": "Fact",
+      "summary": "Why do the same task a hundred times when you can build a system to do it once? Automation isn't about avoiding work; it's about eliminating repetitive work so you can focus on things that actually matter. From writing a simple script to designing a complex workflow, the goal is always the same: work smarter, save time, and let technology handle the boring stuff.\n\nA little laziness can spark a lot of creativity. Behind every automated process is someone who got tired of doing things the hard way and decided to build a better way.\n\nWork less on repetition. Think more. Build smarter. Automate everything you reasonably can.\n\nBecause sometimes, the laziest person in the room has the best architecture. ;)",
+      "thumbnail": "https://images.pexels.com/photos/8566467/pexels-photo-8566467.jpeg",
+      "video": "https://www.pexels.com/download/video/8084750/",
+      "date": "",
+      "source": "/",
+      "author": "MerajXo,at 10:26 PM",
+      "reactions": {
+        "haha": 0,
+        "fire": 0
+      }
     }
   ]
 }
