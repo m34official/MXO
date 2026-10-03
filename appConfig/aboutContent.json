@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "alias": "MerajXo",
+    "name": "MD. Merajul Islam",
+    "title": "Design ° Develop ° Enjoy",
+    "tagline": "VICTORY IS IMPOSSIBLE WITHOUT SACRIFICE",
+    "backdrop": "",
+    "socials": [
+      {
+        "label": "IG",
+        "icon": "instagram",
+        "url": "www.instagram.com/merajxo"
+      }
+    ]
+  },
+  "story": {
+    "eyebrow": "",
+    "lede": "",
+    "image": "",
+    "paragraphs": []
+  },
+  "process": [],
+  "toolkit": [],
+  "journey": [],
+  "gallery": [],
+  "contact": {
+    "email": "",
+    "intro": ""
+  }
+}
