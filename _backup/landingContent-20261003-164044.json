@@ -1,0 +1,140 @@
+{
+  "greeting": "Back again 👋 scroll for what's new.",
+  "posts": [
+    {
+      "id": "news-world-1",
+      "type": "news",
+      "title": "AI video generation hits another leap this week",
+      "category": "World",
+      "summary": "Short version: renders that took studios days now take minutes. Here's what it means for motion designers.",
+      "thumbnail": "https://raw.githubusercontent.com/you/appConfig/main/img/ai-video.webp",
+      "video": "",
+      "date": "2026-01-06",
+      "source": "Reuters",
+      "author": "",
+      "actionButtonTitle": "Read more",
+      "onAction": {
+        "type": "url",
+        "value": "https://reuters.com/..."
+      },
+      "sectionAfter": [
+        "project",
+        "motionGraphic"
+      ]
+    },
+    {
+      "id": "news-bd-1",
+      "type": "news",
+      "title": "Dhaka metro extends to new stations",
+      "category": "Bangladesh",
+      "summary": "New extension cuts commute time from Uttara to Motijheel by 20 minutes.",
+      "thumbnail": "https://.../metro.webp",
+      "video": "",
+      "date": "2026-01-05",
+      "source": "The Daily Star",
+      "author": "",
+      "actionButtonTitle": "Full story",
+      "onAction": {
+        "type": "url",
+        "value": "https://..."
+      }
+    },
+    {
+      "id": "meme-1",
+      "type": "meme",
+      "title": "When the overnight render finishes at 4:07 AM and it's 2 frames short",
+      "category": "",
+      "summary": "",
+      "thumbnail": "https://.../render-meme.jpg",
+      "video": "",
+      "date": "",
+      "source": "",
+      "author": "",
+      "reactions": {
+        "haha": 128,
+        "fire": 41
+      },
+      "sectionAfter": [
+        "script",
+        "afterEffects",
+        [
+          "auto-file-organizer",
+          "batch-rename"
+        ],
+        "Scripts that save you here"
+      ]
+    },
+    {
+      "id": "quote-1",
+      "type": "quote",
+      "title": "Automation is just laziness with good architecture.",
+      "category": "",
+      "summary": "",
+      "thumbnail": "",
+      "video": "",
+      "date": "",
+      "source": "",
+      "author": "Me, at 3AM, exporting again"
+    },
+    {
+      "id": "video-1",
+      "type": "video",
+      "title": "Showreel '26 — 40 seconds",
+      "category": "",
+      "summary": "",
+      "thumbnail": "https://.../reel-thumb.webp",
+      "video": "https://.../reel.mp4",
+      "date": "",
+      "source": "",
+      "author": "",
+      "actionButtonTitle": "",
+      "onAction": {
+        "type": "video",
+        "value": "https://.../reel.mp4"
+      },
+      "sectionAfter": [
+        "project",
+        "all",
+        [],
+        "Featured work"
+      ]
+    },
+    {
+      "id": "post-1791044245648",
+      "type": "news",
+      "title": "FileCR - The ultimate treasure",
+      "category": "Store",
+      "summary": "At FileCR, we aim to simplify finding and accessing the necessary software. We understand that searching for reliable software can be time-consuming and challenging. That's why we have created a user-friendly platform combining a vast collection of software across various categories, making it easier to discover and download the right tools for your requirements.",
+      "thumbnail": "https://raw.githubusercontent.com/m34official/MXO/main/assets/landing/filecr-the-ultimate-treasure-post/screenshot_17.png",
+      "video": "",
+      "date": "",
+      "source": "https://filecr.com/about/",
+      "author": "MerajXo",
+      "actionButtonTitle": "Visit Now",
+      "onAction": {
+        "type": "url",
+        "value": "https://filecr.com/search/?q=adobe"
+      },
+      "reactions": {
+        "haha": 0,
+        "fire": 0
+      }
+    },
+    {
+      "id": "post-1791044753867",
+      "type": "video",
+      "title": "Automation is just laziness with good architecture :)",
+      "category": "Fact",
+      "summary": "Why do the same task a hundred times when you can build a system to do it once? Automation isn't about avoiding work; it's about eliminating repetitive work so you can focus on things that actually matter. From writing a simple script to designing a complex workflow, the goal is always the same: work smarter, save time, and let technology handle the boring stuff.\n\nA little laziness can spark a lot of creativity. Behind every automated process is someone who got tired of doing things the hard way and decided to build a better way.\n\nWork less on repetition. Think more. Build smarter. Automate everything you reasonably can.\n\nBecause sometimes, the laziest person in the room has the best architecture. ;)",
+      "thumbnail": "https://images.pexels.com/photos/8566467/pexels-photo-8566467.jpeg",
+      "video": "https://videos.pexels.com/video-files/8084750/8084750-uhd_3840_2160_25fps.mp4",
+      "date": "",
+      "source": "/",
+      "author": "MerajXo,at 10:26 PM",
+      "reactions": {
+        "haha": 0,
+        "fire": 0
+      }
+    }
+  ]
+}
