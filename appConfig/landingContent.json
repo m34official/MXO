@@ -39,23 +39,6 @@
       }
     },
     {
-      "id": "news-bd-1",
-      "type": "news",
-      "title": "Dhaka metro extends to new stations",
-      "category": "Bangladesh",
-      "summary": "New extension cuts commute time from Uttara to Motijheel by 20 minutes.",
-      "thumbnail": "https://.../metro.webp",
-      "video": "",
-      "date": "2026-01-05",
-      "source": "The Daily Star",
-      "author": "",
-      "actionButtonTitle": "Full story",
-      "onAction": {
-        "type": "url",
-        "value": "https://..."
-      }
-    },
-    {
       "id": "meme-1",
       "type": "meme",
       "title": "When the overnight render finishes at 4:07 AM and it's 2 frames short",
