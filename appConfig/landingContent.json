@@ -2,27 +2,6 @@
   "greeting": "Back again 👋 scroll for what's new.",
   "posts": [
     {
-      "id": "news-world-1",
-      "type": "news",
-      "title": "AI video generation hits another leap this week",
-      "category": "World",
-      "summary": "Short version: renders that took studios days now take minutes. Here's what it means for motion designers.",
-      "thumbnail": "https://raw.githubusercontent.com/you/appConfig/main/img/ai-video.webp",
-      "video": "",
-      "date": "2026-01-06",
-      "source": "Reuters",
-      "author": "",
-      "actionButtonTitle": "Read more",
-      "onAction": {
-        "type": "url",
-        "value": "https://reuters.com/..."
-      },
-      "sectionAfter": [
-        "project",
-        "motionGraphic"
-      ]
-    },
-    {
       "id": "post-1791044753867",
       "type": "video",
       "title": "Automation is just laziness with good architecture :)",
