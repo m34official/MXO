@@ -1,29 +1,19 @@
 {
   "projects": [
     {
-      "id": "neon-title-pack",
-      "title": "Neon Title Pack",
-      "category": "motion_graphics",
-      "description": "A pack of 12 editable neon-glow title animations for After Effects.",
-      "youtubeId": "dQw4w9WgXcQ",
-      "thumbnail": "https://picsum.photos/seed/neon/800/1100",
-      "gallery": ["https://picsum.photos/seed/n1/1200/800"],
-      "tags": ["after effects", "neon", "titles"],
-      "files": [
-        { "name": "neon_pack.aep", "url": "https://example.com/neon_pack.aep", "kind": "source" }
-      ],
-      "client": "Indie Streamer",
-      "year": 2024,
-      "createdAt": "2024-01-10",
-      "updatedAt": "2024-03-02"
-    },
-    {
       "id": "lofi-flyer-series",
       "title": "Lo-Fi Flyer Series",
       "category": "flyer",
       "description": "Monthly event flyer series with a retro grain aesthetic.",
+      "intro": null,
+      "youtubeId": null,
       "thumbnail": "https://picsum.photos/seed/flyer/800/600",
-      "tags": ["photoshop", "event", "retro"],
+      "gallery": [],
+      "tags": [
+        "photoshop",
+        "event",
+        "retro"
+      ],
       "files": [],
       "client": "Corner Café",
       "year": 2023,
@@ -35,9 +25,17 @@
       "title": "Vector Mascot Kit",
       "category": "vector",
       "description": "50+ poseable mascot parts in Illustrator & SVG.",
+      "intro": null,
+      "youtubeId": null,
       "thumbnail": "https://picsum.photos/seed/vector/800/900",
-      "tags": ["illustrator", "svg", "mascot"],
+      "gallery": [],
+      "tags": [
+        "illustrator",
+        "svg",
+        "mascot"
+      ],
       "files": [],
+      "client": null,
       "year": 2024,
       "createdAt": "2024-02-01",
       "updatedAt": "2024-02-20"
