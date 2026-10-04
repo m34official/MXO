@@ -52,6 +52,7 @@
       "featured": false,
       "website": "https://merajxo.com/software/mxo-title-kit",
       "downloadUrl": "https://github.com/m34official/MXO/releases/download/v2.0.1/MXOTitleKit.zip",
+      "downloads": [],
       "sourceUrl": "",
       "requirements": [
         "After Effects 2022 or newer",
@@ -79,51 +80,6 @@
       "updatedAt": "2026-01-20"
     },
     {
-      "id": "lofi-grain-pack",
-      "name": "Lo-Fi Grain Pack",
-      "category": "preset",
-      "type": "Preset pack",
-      "version": "1.0.0",
-      "author": "MERAJXO",
-      "tagline": "12 film-grain looks that survive compression.",
-      "description": "Twelve grain/halation presets tuned for social-media compression. Works in After Effects and Premiere (via .mogrt).",
-      "icon": "https://picsum.photos/seed/grainpack/256",
-      "platforms": [
-        "windows",
-        "macos"
-      ],
-      "tags": [
-        "grain",
-        "color",
-        "mogrt",
-        "free"
-      ],
-      "license": "CC-BY 4.0 — credit appreciated",
-      "price": "Free",
-      "featured": false,
-      "website": "",
-      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v1.0.0/LofiGrainPack.zip",
-      "sourceUrl": "",
-      "requirements": [
-        "After Effects 2021+ or Premiere 2022+"
-      ],
-      "setup": [
-        {
-          "title": "Import the presets",
-          "description": "Drop the .ffx files into your user presets folder, or drag them straight into a comp.",
-          "code": "%APPDATA%\\Adobe\\After Effects\\[version]\\User Presets\\"
-        },
-        {
-          "title": "Apply & tune",
-          "description": "Effects → User Presets → Lo-Fi Grain. Each look exposes intensity + scale sliders.",
-          "code": ""
-        }
-      ],
-      "config": [],
-      "createdAt": "2025-05-30",
-      "updatedAt": "2025-05-30"
-    },
-    {
       "id": "adobe-after-effects-2026",
       "name": "Adobe After Effects 2026",
       "category": "app",
@@ -148,6 +104,7 @@
       "featured": true,
       "website": "https://filecr.com/windows/adobe-after-effects-0038/?id=047431842000",
       "downloadUrl": "https://filecr.com/file-download/?id=665105759000",
+      "downloads": [],
       "sourceUrl": "",
       "requirements": [
         "Intel Core2 Duo or AMD Phenom II processor; 64-bit support required",
@@ -230,6 +187,7 @@
       "featured": false,
       "website": "https://intro-hd.net/aescripts-flow-v1-5-2/",
       "downloadUrl": "https://usersdrive.com/s4wmcb4twoig.html",
+      "downloads": [],
       "sourceUrl": "https://aescripts.com/flow/",
       "requirements": [
         "After Effects CC 2020 +"
