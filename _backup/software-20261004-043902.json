@@ -1,0 +1,96 @@
+{
+  "categories": [
+    { "id": "all", "name": "All", "icon": "apps" },
+    { "id": "app", "name": "Software", "icon": "desktop_windows" },
+    { "id": "plugin", "name": "Plugins", "icon": "extension" },
+    { "id": "preset", "name": "Presets & Templates", "icon": "tune" },
+    { "id": "script_tool", "name": "Script Tools", "icon": "terminal" }
+  ],
+  "software": [
+    {
+      "id": "fq-render-watcher",
+      "name": "FQ Render Watcher",
+      "category": "app",
+      "type": "Desktop app",
+      "version": "1.2.0",
+      "author": "MERAJXO",
+      "tagline": "Drop files in a folder — the render queue does the rest.",
+      "description": "A tiny tray application that watches one or more folders and automatically renders anything you drop into them. Built for After Effects pipelines but happy with any CLI renderer you configure.",
+      "icon": "https://picsum.photos/seed/renderwatcher/256",
+      "platforms": ["windows"],
+      "tags": ["render", "automation", "queue", "free"],
+      "license": "Freeware",
+      "price": "Free",
+      "featured": true,
+      "website": "https://merajxo.com/software/fq-render-watcher",
+      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v1.2.0/FQRenderWatcher.zip",
+      "sourceUrl": "",
+      "requirements": ["Windows 10 or newer", "60 MB disk space", "After Effects 2022+ (optional)"],
+      "setup": [
+        { "title": "Download & unzip", "description": "Grab the latest release and unzip it anywhere — no installer needed.", "code": "" },
+        { "title": "First launch", "description": "Run FQRenderWatcher.exe. It starts minimized to the system tray.", "code": "" },
+        { "title": "Point it at a watch folder", "description": "Right-click the tray icon → Settings → add a folder. Anything dropped there is queued automatically.", "code": "" }
+      ],
+      "config": [
+        { "title": "watch_folders.json", "description": "Advanced users can edit the config directly. Restart the app after changes.", "code": "{\n  \"watch\": [\"D:/renders/in\"],\n  \"output\": \"D:/renders/out\",\n  \"format\": \"mp4\",\n  \"concurrent\": 1\n}" }
+      ],
+      "createdAt": "2025-11-02",
+      "updatedAt": "2026-02-01"
+    },
+    {
+      "id": "mxo-title-kit",
+      "name": "MXO Title Kit",
+      "category": "plugin",
+      "type": "After Effects plugin",
+      "version": "2.0.1",
+      "author": "MERAJXO",
+      "tagline": "36 drag-and-drop neon titles for After Effects.",
+      "description": "A template pack + extension with 36 editable neon/glow title scenes. Every scene is expression-driven: change one slider and the whole animation retimes itself.",
+      "icon": "https://picsum.photos/seed/titlekit/256",
+      "platforms": ["windows", "macos"],
+      "tags": ["after effects", "titles", "neon", "templates"],
+      "license": "Royalty-free for commercial work",
+      "price": "Free",
+      "featured": false,
+      "website": "https://merajxo.com/software/mxo-title-kit",
+      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v2.0.1/MXOTitleKit.zip",
+      "sourceUrl": "",
+      "requirements": ["After Effects 2022 or newer", "1920×1080 or larger comp"],
+      "setup": [
+        { "title": "Install the extension", "description": "Copy the MXO Title Kit folder into the CEP extensions directory and restart After Effects.", "code": "C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\" },
+        { "title": "Open the panel", "description": "Window → Extensions → MXO Title Kit. Double-click any scene to import it into your project.", "code": "" },
+        { "title": "Enable player debugging", "description": "Only needed if the panel opens as a blank window.", "code": "HKCU\\Software\\Adobe\\CSXS.11 → PlayerDebugMode = 1" }
+      ],
+      "config": [],
+      "createdAt": "2025-08-14",
+      "updatedAt": "2026-01-20"
+    },
+    {
+      "id": "lofi-grain-pack",
+      "name": "Lo-Fi Grain Pack",
+      "category": "preset",
+      "type": "Preset pack",
+      "version": "1.0.0",
+      "author": "MERAJXO",
+      "tagline": "12 film-grain looks that survive compression.",
+      "description": "Twelve grain/halation presets tuned for social-media compression. Works in After Effects and Premiere (via .mogrt).",
+      "icon": "https://picsum.photos/seed/grainpack/256",
+      "platforms": ["windows", "macos"],
+      "tags": ["grain", "color", "mogrt", "free"],
+      "license": "CC-BY 4.0 — credit appreciated",
+      "price": "Free",
+      "featured": false,
+      "website": "",
+      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v1.0.0/LofiGrainPack.zip",
+      "sourceUrl": "",
+      "requirements": ["After Effects 2021+ or Premiere 2022+"],
+      "setup": [
+        { "title": "Import the presets", "description": "Drop the .ffx files into your user presets folder, or drag them straight into a comp.", "code": "%APPDATA%\\Adobe\\After Effects\\[version]\\User Presets\\" },
+        { "title": "Apply & tune", "description": "Effects → User Presets → Lo-Fi Grain. Each look exposes intensity + scale sliders.", "code": "" }
+      ],
+      "config": [],
+      "createdAt": "2025-05-30",
+      "updatedAt": "2025-05-30"
+    }
+  ]
+}
