@@ -1,0 +1,207 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "apps"
+    },
+    {
+      "id": "app",
+      "name": "Software",
+      "icon": "desktop_windows"
+    },
+    {
+      "id": "plugin",
+      "name": "Plugins",
+      "icon": "extension"
+    },
+    {
+      "id": "preset",
+      "name": "Presets & Templates",
+      "icon": "tune"
+    },
+    {
+      "id": "script_tool",
+      "name": "Script Tools",
+      "icon": "terminal"
+    }
+  ],
+  "software": [
+    {
+      "id": "mxo-title-kit",
+      "name": "MXO Title Kit",
+      "category": "plugin",
+      "type": "After Effects plugin",
+      "version": "2.0.1",
+      "author": "MERAJXO",
+      "tagline": "36 drag-and-drop neon titles for After Effects.",
+      "description": "A template pack + extension with 36 editable neon/glow title scenes. Every scene is expression-driven: change one slider and the whole animation retimes itself.",
+      "icon": "https://picsum.photos/seed/titlekit/256",
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "tags": [
+        "after effects",
+        "titles",
+        "neon",
+        "templates"
+      ],
+      "license": "Royalty-free for commercial work",
+      "price": "Free",
+      "featured": false,
+      "website": "https://merajxo.com/software/mxo-title-kit",
+      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v2.0.1/MXOTitleKit.zip",
+      "sourceUrl": "",
+      "requirements": [
+        "After Effects 2022 or newer",
+        "1920×1080 or larger comp"
+      ],
+      "setup": [
+        {
+          "title": "Install the extension",
+          "description": "Copy the MXO Title Kit folder into the CEP extensions directory and restart After Effects.",
+          "code": "C:\\Program Files (x86)\\Common Files\\Adobe\\CEP\\extensions\\"
+        },
+        {
+          "title": "Open the panel",
+          "description": "Window → Extensions → MXO Title Kit. Double-click any scene to import it into your project.",
+          "code": ""
+        },
+        {
+          "title": "Enable player debugging",
+          "description": "Only needed if the panel opens as a blank window.",
+          "code": "HKCU\\Software\\Adobe\\CSXS.11 → PlayerDebugMode = 1"
+        }
+      ],
+      "config": [],
+      "createdAt": "2025-08-14",
+      "updatedAt": "2026-01-20"
+    },
+    {
+      "id": "lofi-grain-pack",
+      "name": "Lo-Fi Grain Pack",
+      "category": "preset",
+      "type": "Preset pack",
+      "version": "1.0.0",
+      "author": "MERAJXO",
+      "tagline": "12 film-grain looks that survive compression.",
+      "description": "Twelve grain/halation presets tuned for social-media compression. Works in After Effects and Premiere (via .mogrt).",
+      "icon": "https://picsum.photos/seed/grainpack/256",
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "tags": [
+        "grain",
+        "color",
+        "mogrt",
+        "free"
+      ],
+      "license": "CC-BY 4.0 — credit appreciated",
+      "price": "Free",
+      "featured": false,
+      "website": "",
+      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v1.0.0/LofiGrainPack.zip",
+      "sourceUrl": "",
+      "requirements": [
+        "After Effects 2021+ or Premiere 2022+"
+      ],
+      "setup": [
+        {
+          "title": "Import the presets",
+          "description": "Drop the .ffx files into your user presets folder, or drag them straight into a comp.",
+          "code": "%APPDATA%\\Adobe\\After Effects\\[version]\\User Presets\\"
+        },
+        {
+          "title": "Apply & tune",
+          "description": "Effects → User Presets → Lo-Fi Grain. Each look exposes intensity + scale sliders.",
+          "code": ""
+        }
+      ],
+      "config": [],
+      "createdAt": "2025-05-30",
+      "updatedAt": "2025-05-30"
+    },
+    {
+      "id": "adobe-after-effects-2026",
+      "name": "Adobe After Effects 2026",
+      "category": "app",
+      "type": "Video Editing",
+      "version": "2026",
+      "author": "FileCr.com",
+      "tagline": "Free Download Adobe After Effects Pre-Activated Offline Installer for Windows",
+      "description": "Create animated titles, credits, and lower thirds. Start from scratch or with one of the animation presets available inside the app. There are countless ways to make your text move with After Effects, from spin to swipe to slide.\r\n\r\nCombine videos and images to send a UFO across the sky, blur out a logo, or create an explosion — endless possibilities. There are hundreds of effects to get the look you want, from adding fog to changing colors to making it snow.\r\n\r\nAfter Effects works seamlessly with other Adobe apps, creates comps, and immediately sees how they look in Premiere Pro CC with Adobe Dynamic Link. Import work from Photoshop, Illustrator, Illustrator, Illustrator, Illustrator, Character Animator, Adobe XD, and Animate CC. Use Team Projects to collaborate with editors no matter where they’re located. And After Effects is integrated with 300+ software and hardware partners.\r\n\r\nAdobe offers a complete set of animation apps that work with all your ideas — and each other. Create cinematic movie titles, intros, transitions, and more with After Effects CC. Use Animate CC to create interactive vector animations for games, apps, and the web. Animate characters in real-time with Character Animator CC. And move seamlessly between them with the most comprehensive integration out there.",
+      "icon": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2023%2F03%2Fadobe-after-effects-0032%2FAdobe_After_Effects_CC_icon.png&w=64&q=80&output=webp&we",
+      "platforms": [
+        "windows"
+      ],
+      "tags": [
+        "after effects",
+        "after effects 2026",
+        "ae 2026",
+        "adobe",
+        "free after effects"
+      ],
+      "license": "Provided by Adobe CC",
+      "price": "",
+      "featured": true,
+      "website": "https://filecr.com/windows/adobe-after-effects-0038/?id=047431842000",
+      "downloadUrl": "https://filecr.com/file-download/?id=665105759000",
+      "sourceUrl": "",
+      "requirements": [
+        "Intel Core2 Duo or AMD Phenom II processor; 64-bit support required",
+        "Microsoft Windows 7 with Service Pack 1, Windows 8, and Windows 8.1. See the CS6 FAQ for more information about Windows 8 support.",
+        "4 GB of RAM (8 GB recommended)",
+        "3 GB of available hard disk space; additional free space required during installation (cannot install on removable flash storage devices)",
+        "Additional disk space for disk cache (10 GB recommended)",
+        "1280 x 900 display",
+        "OpenGL 2.0-capable system",
+        "DVD-ROM drive for installation from DVD media",
+        "QuickTime 7.6.6 software required for QuickTime features",
+        "Optional: Adobe-certified GPU card for GPU-accelerated ray-traced 3D renderer"
+      ],
+      "setup": [
+        {
+          "title": "Download the file from given link.",
+          "description": "If the download link is broken, please consider visiting the website (filecr.com) and searching for it.",
+          "code": null
+        },
+        {
+          "title": "Extract the files",
+          "description": "You may use 7-Zip or WinRAR to extract files from the archive. If you don't have 7-Zip, please visit and download it from \"https://www.7-zip.org/\"",
+          "code": null
+        },
+        {
+          "title": "Mount the iso",
+          "description": "After unzipping the archive, you'll see this \"Adobe.After.Effects.2026.u3.Multilingual.iso\" file in the extracted folder. Double-click it or mount it by >Right click>Mount context menu.",
+          "code": null
+        },
+        {
+          "title": "Run the setup",
+          "description": "You'll see an \"autorun.exe\" file. Just double-click on it and approve the UAC prompt. You'll see the setup screen. Choose your preferred language and installation directory, and click \"Install\".",
+          "code": null
+        },
+        {
+          "title": "Congratulation :)",
+          "description": "You've just saved thousands of DOLLARS :)",
+          "code": null
+        },
+        {
+          "title": "Support",
+          "description": "You can share the link to this page with your friends who don't have a penny but want After Effects 2026 installed on their machine.",
+          "code": null
+        }
+      ],
+      "config": [
+        {
+          "title": "How to check?",
+          "description": "As soon as you complete the installation, open the software once to load all the modules before you install any plugins.",
+          "code": null
+        }
+      ],
+      "createdAt": "2026-10-04",
+      "updatedAt": "2026-10-04"
+    }
+  ]
+}
