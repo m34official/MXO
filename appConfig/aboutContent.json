@@ -7,9 +7,19 @@
     "backdrop": "https://raw.githubusercontent.com/m34official/MXO/main/assets/about/md-merajul-islam-page/artboard_1_8.png",
     "socials": [
       {
-        "label": "IG",
+        "label": "Instagram",
         "icon": "instagram",
         "url": "www.instagram.com/merajxo"
+      },
+      {
+        "label": "Facebook",
+        "icon": "facebook",
+        "url": "www.facebook.com/merajxo"
+      },
+      {
+        "label": "GitHub",
+        "icon": "github",
+        "url": "www.github.com/merajxo"
       }
     ]
   },
@@ -22,7 +32,29 @@
   "process": [],
   "toolkit": [],
   "journey": [],
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "This is a title.",
+      "caption": "Caption 1",
+      "image": "https://images.pexels.com/photos/18872916/pexels-photo-18872916.jpeg"
+    },
+    {
+      "title": "Title 2",
+      "caption": "Caption 2",
+      "image": "https://images.pexels.com/photos/12249545/pexels-photo-12249545.jpeg"
+    },
+    {
+      "title": "Title 3",
+      "caption": "Caption 3",
+      "image": "https://images.pexels.com/photos/28706140/pexels-photo-28706140.jpeg"
+    },
+    {
+      "title": "Title 4",
+      "caption": "Caption 4",
+      "image": "https://images.pexels.com/photos/28636085/pexels-photo-28636085.jpeg"
+    }
+  ],
+  "showreel": "https://videos.pexels.com/video-files/17564236/uhd_30fps.mp4",
   "contact": {
     "email": "",
     "intro": ""
