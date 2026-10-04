@@ -202,6 +202,48 @@
       ],
       "createdAt": "2026-10-04",
       "updatedAt": "2026-10-04"
+    },
+    {
+      "id": "aescripts-flow",
+      "name": "Aescripts Flow",
+      "category": "plugin",
+      "type": "",
+      "version": "v1.5.2",
+      "author": "AE Scripts + AE Plugins",
+      "tagline": "Intuitive controls for animation curves",
+      "description": "Download Aescripts Flow v1.5.2 and enjoy the best experience where you will find what you needed and what you searched for. Our site also provides templates for After Effects, Premiere Pro, Final Cut, Luts, Royalty free sound effects and much more.\r\n\r\nFlow provides a simple, clean, and intuitive curve editor to adjust your keyframe easing.\r\n\r\nFlow gives After Effects an intuitive curve editor to adjust keyframe easing.\r\n\r\nGone are the days of fighting with speed & influence (what do those even mean?!), or navigating through some bloated 8000-features-in-one garbage pile to find their easing system – just make a curve, hit Apply and you’re gold!",
+      "icon": "https://intro-hd.net/wp-content/themes/takprog/assets/img/logo.png",
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "tags": [
+        "keyframes",
+        "animation",
+        "animation assistant",
+        "automation",
+        "motion graph",
+        "motion curves"
+      ],
+      "license": "Controlled by aescript.com",
+      "price": "35.00",
+      "featured": false,
+      "website": "https://intro-hd.net/aescripts-flow-v1-5-2/",
+      "downloadUrl": "https://usersdrive.com/s4wmcb4twoig.html",
+      "sourceUrl": "https://aescripts.com/flow/",
+      "requirements": [
+        "After Effects CC 2020 +"
+      ],
+      "setup": [
+        {
+          "title": "How to install?",
+          "description": "Just open the zip file and you'll see a \"Readme.txt\" file with all the information.",
+          "code": null
+        }
+      ],
+      "config": [],
+      "createdAt": "2026-10-04",
+      "updatedAt": "2026-10-04"
     }
   ]
 }
