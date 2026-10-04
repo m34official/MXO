@@ -1,0 +1,33 @@
+{
+  "tracks": [
+    {
+      "id": "track-825141",
+      "title": "Possible Dreams",
+      "artist": "Eugenio Mininni",
+      "album": "MixKit",
+      "genre": "Classical",
+      "url": "https://assets.mixkit.co/music/599/599.mp3",
+      "artwork": "https://images.pexels.com/photos/8203430/pexels-photo-8203430.jpeg",
+      "license": "CC",
+      "duration": 159,
+      "tags": []
+    },
+    {
+      "id": "track-746104",
+      "title": "Terrain - UppBeat.io",
+      "artist": "Zimpzon",
+      "album": "UppBeat",
+      "genre": "Cinematic",
+      "url": "https://cdn.uppbeat.io/audio-files/e98a11e9b1c19795f4c5a2952ad4ad27/88ab2335ea96a9754884c93a46d9b82b/85633e390be8cd43ef7ef9d31a8fe18a/STREAMING-solitude-monument-music-main-version-28301-02-24.mp3",
+      "artwork": "https://images.pexels.com/photos/15227605/pexels-photo-15227605.jpeg",
+      "license": "Covered by your Uppbeat license when used in line with your plan.",
+      "duration": 264,
+      "tags": [
+        "atmospheric",
+        "cinematic",
+        "motivation",
+        "paid"
+      ]
+    }
+  ]
+}
