@@ -28,63 +28,6 @@
   ],
   "software": [
     {
-      "id": "fq-render-watcher",
-      "name": "FQ Render Watcher",
-      "category": "app",
-      "type": "Desktop app",
-      "version": "1.2.0",
-      "author": "MERAJXO",
-      "tagline": "Drop files in a folder — the render queue does the rest.",
-      "description": "A tiny tray application that watches one or more folders and automatically renders anything you drop into them. Built for After Effects pipelines but happy with any CLI renderer you configure.",
-      "icon": "https://picsum.photos/seed/renderwatcher/256",
-      "platforms": [
-        "windows"
-      ],
-      "tags": [
-        "render",
-        "automation",
-        "queue",
-        "free"
-      ],
-      "license": "Freeware",
-      "price": "Free",
-      "featured": true,
-      "website": "https://merajxo.com/software/fq-render-watcher",
-      "downloadUrl": "https://github.com/m34official/MXO/releases/download/v1.2.0/FQRenderWatcher.zip",
-      "sourceUrl": "",
-      "requirements": [
-        "Windows 10 or newer",
-        "60 MB disk space",
-        "After Effects 2022+ (optional)"
-      ],
-      "setup": [
-        {
-          "title": "Download & unzip",
-          "description": "Grab the latest release and unzip it anywhere — no installer needed.",
-          "code": ""
-        },
-        {
-          "title": "First launch",
-          "description": "Run FQRenderWatcher.exe. It starts minimized to the system tray.",
-          "code": ""
-        },
-        {
-          "title": "Point it at a watch folder",
-          "description": "Right-click the tray icon → Settings → add a folder. Anything dropped there is queued automatically.",
-          "code": ""
-        }
-      ],
-      "config": [
-        {
-          "title": "watch_folders.json",
-          "description": "Advanced users can edit the config directly. Restart the app after changes.",
-          "code": "{\n  \"watch\": [\"D:/renders/in\"],\n  \"output\": \"D:/renders/out\",\n  \"format\": \"mp4\",\n  \"concurrent\": 1\n}"
-        }
-      ],
-      "createdAt": "2025-11-02",
-      "updatedAt": "2026-02-01"
-    },
-    {
       "id": "mxo-title-kit",
       "name": "MXO Title Kit",
       "category": "plugin",
