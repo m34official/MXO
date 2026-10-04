@@ -253,6 +253,45 @@
       "config": [],
       "createdAt": "2026-10-04",
       "updatedAt": "2026-10-04"
+    },
+    {
+      "id": "adobe-illustrator-2026",
+      "name": "Adobe Illustrator 2026",
+      "category": "app",
+      "type": "Vector Art",
+      "version": "v30",
+      "author": "Adobe",
+      "tagline": "Industry Leading Vector Design Tool.",
+      "description": "The drawing program is a professional solution for designing professional vector-based illustrations for posters, business letters, business cards, brochures, websites, and menus. You can bundle and group up to 100 large drawings in a single Illustrator file.\r\n\r\nVia a selection list, you can access the desired element directly. \"Adobe Illustrator\" reads all major formats such as EPS, FXG, PSD, TIFF, GIF, JPEG, SWF, SVG, DWG, or DXF. If you want to pass on your designs, \"package files\" offer themselves. Here, you summarize all required fonts and graphics in one folder. Alternatively, secure your print-sharing designs as multi-page PDF documents with Illustrator layers.",
+      "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/250px-Adobe_Illustrator_CC_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "platforms": [
+        "windows"
+      ],
+      "tags": [
+        "adobe",
+        "illustrator",
+        "adobe ai",
+        ".ai",
+        "eps"
+      ],
+      "license": "Controlled by ADOBE",
+      "price": "",
+      "featured": true,
+      "website": "https://filecr.com/windows/adobe-illustrator-2025-0056/?id=427350048300",
+      "downloadUrl": "https://filecr.com/windows/adobe-illustrator-2025-0056/?id=427350048300",
+      "downloads": [],
+      "sourceUrl": "https://www.adobe.com/products/illustrator.html",
+      "requirements": [
+        "Intel Pentium 4 or AMD Athlon 64 processor\r\n",
+        "Microsoft Windows 7 with Service Pack 1, Windows 8.1, or Windows 10\r\n",
+        "2 GB of RAM (8 GB recommended) for 64-bit\r\n",
+        "2 GB of available hard disk space for installation; additional free space required during installation (cannot install on removable flash storage devices)\r\n",
+        "1024 x 768 display (1280 x 800 recommended)\r\n"
+      ],
+      "setup": [],
+      "config": [],
+      "createdAt": "2026-10-04",
+      "updatedAt": "2026-10-04"
     }
   ]
 }
