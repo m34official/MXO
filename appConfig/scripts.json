@@ -1,13 +1,16 @@
 {
   "scripts": [
     {
+      "icon": "icons/windows.png",
       "id": "cmd_001",
-      "thumb": "https://i.pinimg.com/1200x/5e/66/b6/5e66b6a01724c5e397f4929362c5d31d.jpg",
       "title": "Auto File Organizer",
+      "thumb": "https://i.pinimg.com/1200x/5e/66/b6/5e66b6a01724c5e397f4929362c5d31d.jpg",
+      "intro": null,
       "description": "Automatically sort files in your Downloads folder by extension into organized subfolders",
+      "tutorial": null,
+      "guide": [],
       "type": "cmd",
       "language": "Batch",
-      "icon": "icons/windows.png",
       "thumbnail": "thumbnails/cmd_organizer.png",
       "tags": [
         "windows",
@@ -18,18 +21,21 @@
       "setupInstructions": "1. Download the .bat file\n2. Right-click and select 'Run as Administrator'\n3. Edit the 'source_path' variable in the script to point to your Downloads folder\n4. Schedule it in Task Scheduler to run every hour",
       "code": "@echo off\nsetlocal enabledelayedexpansion\n\n:: Set source directory (change this)\nset \"source=C:\\Users\\YourName\\Downloads\"\n\ncd /d \"%source%\"\n\n:: Create folders if they don't exist\nif not exist \"Images\" mkdir Images\nif not exist \"Videos\" mkdir Videos\nif not exist \"Documents\" mkdir Documents\nif not exist \"Archives\" mkdir Archives\n\n:: Move files by extension\nfor %%f in (*.jpg *.jpeg *.png *.gif *.bmp *.webp) do (\n    move \"%%f\" \"Images\\\" >nul 2>&1\n)\n\nfor %%f in (*.mp4 *.avi *.mkv *.mov *.wmv) do (\n    move \"%%f\" \"Videos\\\" >nul 2>&1\n)\n\nfor %%f in (*.pdf *.doc *.docx *.txt *.xlsx) do (\n    move \"%%f\" \"Documents\\\" >nul 2>&1\n)\n\nfor %%f in (*.zip *.rar *.7z *.tar *.gz) do (\n    move \"%%f\" \"Archives\\\" >nul 2>&1\n)\n\necho Files organized successfully!\npause",
       "downloadLink": "https://github.com/yourusername/scripts/raw/main/cmd/auto_organizer.bat",
+      "downloads": [],
       "createdAt": "2024-01-15",
       "updatedAt": "2024-01-20"
     },
     {
+      "icon": "icons/powershell.png",
       "id": "ps1_001",
+      "title": "System Cleanup Pro",
       "thumb": "https://i.pinimg.com/1200x/5a/ed/33/5aed33edd2aa6ab3a34eeae38ffd2430.jpg",
       "intro": "https://www.pexels.com/download/video/39129601/",
-      "title": "System Cleanup Pro",
       "description": "Advanced PowerShell script to clean temporary files, clear DNS cache, and optimize Windows performance",
+      "tutorial": null,
+      "guide": [],
       "type": "powershell",
       "language": "PowerShell",
-      "icon": "icons/powershell.png",
       "thumbnail": "thumbnails/ps_cleanup.png",
       "tags": [
         "windows",
@@ -41,16 +47,21 @@
       "setupInstructions": "1. Right-click PowerShell and select 'Run as Administrator'\n2. Navigate to the script location: cd C:\\Scripts\n3. Run: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser\n4. Execute: .\\system_cleanup.ps1",
       "code": "# System Cleanup Pro - PowerShell Script\n# Run as Administrator\n\nWrite-Host \"Starting System Cleanup...\" -ForegroundColor Cyan\n\n# Clear Windows Temp Files\nWrite-Host \"Cleaning temp files...\" -ForegroundColor Yellow\nGet-ChildItem -Path \"C:\\Windows\\Temp\" -Recurse -ErrorAction SilentlyContinue | Remove-Item -Force -Recurse\nGet-ChildItem -Path \"$env:TEMP\\*\" -Recurse -ErrorAction SilentlyContinue | Remove-Item -Force -Recurse\n\n# Clear DNS Cache\nWrite-Host \"Clearing DNS cache...\" -ForegroundColor Yellow\nipconfig /flushdns\n\n# Clear Recycle Bin\nWrite-Host \"Emptying recycle bin...\" -ForegroundColor Yellow\nClear-RecycleBin -Force -ErrorAction SilentlyContinue\n\n# Clean Windows Update Cache\nWrite-Host \"Cleaning Windows Update cache...\" -ForegroundColor Yellow\nStop-Service wuauserv -Force -ErrorAction SilentlyContinue\nRemove-Item -Path \"C:\\Windows\\SoftwareDistribution\\Download\\*\" -Recurse -Force -ErrorAction SilentlyContinue\nStart-Service wuauserv\n\n# Optimize Drives\nWrite-Host \"Optimizing drives...\" -ForegroundColor Yellow\nOptimize-Volume -DriveLetter C -Defrag -Verbose\n\nWrite-Host \"Cleanup Complete!\" -ForegroundColor Green\nRead-Host \"Press Enter to exit\"",
       "downloadLink": "https://github.com/yourusername/scripts/raw/main/ps1/system_cleanup.ps1",
+      "downloads": [],
       "createdAt": "2024-02-01",
       "updatedAt": "2024-02-10"
     },
     {
+      "icon": "icons/aftereffects.png",
       "id": "ae_001",
       "title": "Auto-Keyframe Spacer",
+      "thumb": null,
+      "intro": null,
       "description": "After Effects expression to automatically add ease and spacing between keyframes for smoother animations",
+      "tutorial": null,
+      "guide": [],
       "type": "after_effects",
       "language": "Expression",
-      "icon": "icons/aftereffects.png",
       "thumbnail": "thumbnails/ae_keyframe.png",
       "tags": [
         "after-effects",
@@ -62,16 +73,21 @@
       "setupInstructions": "1. In After Effects, select the property you want to animate\n2. Alt-click (Option-click on Mac) the stopwatch icon\n3. Paste this expression into the expression field\n4. Adjust the 'easeAmount' variable to control the smoothness",
       "code": "// Auto-Keyframe Spacer Expression\n// Apply to: Position, Scale, Rotation, Opacity\n\nvar easeAmount = 0.3; // Adjust 0-1 for more/less easing\nvar spacing = 15; // Frames between keyframes\n\nif (numKeys > 0){\n  n = nearestKey(time).index;\n  if (key(n).time > time){\n    n--;\n  }\n}\n\nif (n < 1){\n  value;\n}else{\n  if (n < numKeys){\n    t = (time - key(n).time) / (key(n+1).time - key(n).time);\n    ease(t, 0, 1, valueAtTime(key(n).time), valueAtTime(key(n+1).time));\n  }else{\n    valueAtTime(key(n).time);\n  }\n}",
       "downloadLink": "https://github.com/yourusername/scripts/raw/main/ae/auto_keyframe_spacer.txt",
+      "downloads": [],
       "createdAt": "2024-01-25",
       "updatedAt": "2024-01-25"
     },
     {
+      "icon": "icons/python.png",
       "id": "py_001",
       "title": "Batch Video Converter",
+      "thumb": null,
+      "intro": null,
       "description": "Python script to convert entire folders of videos to different formats using FFmpeg",
+      "tutorial": null,
+      "guide": [],
       "type": "python",
       "language": "Python",
-      "icon": "icons/python.png",
       "thumbnail": "thumbnails/py_converter.png",
       "tags": [
         "python",
@@ -83,49 +99,29 @@
       "setupInstructions": "1. Install Python 3.8+\n2. Install FFmpeg and add to PATH\n3. Install required library: pip install tqdm\n4. Run: python video_converter.py\n5. Follow the prompts to select input/output folders",
       "code": "import os\nimport subprocess\nfrom tqdm import tqdm\nfrom pathlib import Path\n\nclass VideoConverter:\n    def __init__(self, input_folder, output_folder, output_format='mp4'):\n        self.input_folder = Path(input_folder)\n        self.output_folder = Path(output_folder)\n        self.output_format = output_format\n        self.output_folder.mkdir(parents=True, exist_ok=True)\n    \n    def convert_video(self, video_path):\n        \"\"\"Convert single video file\"\"\"\n        output_path = self.output_folder / f\"{video_path.stem}.{self.output_format}\"\n        \n        cmd = [\n            'ffmpeg', '-i', str(video_path),\n            '-c:v', 'libx264', '-preset', 'fast', '-crf', '23',\n            '-c:a', 'aac', '-b:a', '128k',\n            '-y',  # Overwrite output\n            str(output_path)\n        ]\n        \n        subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)\n        return output_path\n    \n    def batch_convert(self):\n        \"\"\"Convert all videos in folder\"\"\"\n        video_extensions = ['.mp4', '.avi', '.mkv', '.mov', '.wmv', '.flv']\n        video_files = [\n            f for f in self.input_folder.iterdir() \n            if f.suffix.lower() in video_extensions\n        ]\n        \n        print(f\"Found {len(video_files)} videos to convert\")\n        \n        for video_file in tqdm(video_files, desc=\"Converting\"):\n            try:\n                output = self.convert_video(video_file)\n                print(f\"✓ Converted: {output.name}\")\n            except Exception as e:\n                print(f\"✗ Failed {video_file.name}: {e}\")\n\nif __name__ == \"__main__\":\n    converter = VideoConverter(\n        input_folder=\"./input_videos\",\n        output_folder=\"./output_videos\",\n        output_format=\"mp4\"\n    )\n    converter.batch_convert()",
       "downloadLink": "https://github.com/yourusername/scripts/raw/main/python/video_converter.py",
+      "downloads": [],
       "createdAt": "2024-02-15",
       "updatedAt": "2024-02-18"
     },
     {
-      "id": "cmd_002",
-      "title": "Network Reset Tool",
-      "description": "Quick command-line tool to reset network adapters, flush DNS, and fix common connectivity issues",
-      "type": "cmd",
-      "language": "Batch",
-      "icon": "icons/windows.png",
-      "thumbnail": "thumbnails/cmd_network.png",
-      "tags": [
-        "windows",
-        "network",
-        "troubleshooting",
-        "system"
-      ],
-      "useCase": "When your internet is acting up, run this instead of manually typing 10 different commands. Fixes 90% of common network issues.",
-      "setupInstructions": "1. Right-click the .bat file\n2. Select 'Run as Administrator'\n3. Wait for all commands to complete\n4. Restart your computer when prompted",
-      "code": "@echo off\necho ========================================\necho    NETWORK RESET TOOL\necho ========================================\necho.\n\necho [1/6] Releasing IP address...\nipconfig /release\n\necho [2/6] Renewing IP address...\nipconfig /renew\n\necho [3/6] Flushing DNS cache...\nipconfig /flushdns\n\necho [4/6] Resetting Winsock...\nnetsh winsock reset\n\necho [5/6] Resetting TCP/IP...\nnetsh int ip reset\n\necho [6/6] Resetting network adapters...\nnetsh advfirewall reset\n\necho.\necho ========================================\necho    COMPLETE!\necho ========================================\necho.\necho Please restart your computer for changes to take effect.\necho.\npause",
-      "downloadLink": "https://github.com/yourusername/scripts/raw/main/cmd/network_reset.bat",
-      "createdAt": "2024-01-10",
-      "updatedAt": "2024-01-10"
-    },
-    {
       "id": "batch-rename",
       "title": "Batch Rename Layers",
-      "type": "after_effects",
-      "language": "ExtendScript",
-      "description": "Renames all selected layers with a prefix + running index.",
       "thumb": "https://cdn.example.com/thumbs/batch-rename.webp",
       "intro": "https://cdn.example.com/videos/batch-rename-intro.mp4",
+      "description": "Renames all selected layers with a prefix + running index.",
       "tutorial": "https://cdn.example.com/videos/batch-rename-tutorial.mp4",
       "guide": [
         {
           "title": "Open the Scripts menu",
           "description": "In After Effects go to File → Scripts → Run Script File…",
-          "image": "https://cdn.example.com/guides/rename/step-1.png"
+          "image": "https://cdn.example.com/guides/rename/step-1.png",
+          "code": null
         },
         {
           "title": "Select your layers",
           "description": "Select the layers you want to rename in the timeline.",
-          "image": "https://cdn.example.com/guides/rename/step-2.png"
+          "image": "https://cdn.example.com/guides/rename/step-2.png",
+          "code": null
         },
         {
           "title": "Enter a prefix and run",
@@ -134,10 +130,17 @@
           "code": "File > Scripts > Run Script File"
         }
       ],
+      "type": "after_effects",
+      "language": "ExtendScript",
+      "thumbnail": "",
+      "tags": [],
       "useCase": "When exporting multi-shot comps you need consistent layer names.",
       "setupInstructions": "1. Install the script in the Scripts folder\n2. Restart After Effects",
       "code": "...",
-      "downloadLink": "https://example.com/batch-rename.jsx"
+      "downloadLink": "https://example.com/batch-rename.jsx",
+      "downloads": [],
+      "createdAt": "",
+      "updatedAt": ""
     }
   ],
   "categories": [
