@@ -39,31 +39,6 @@
       }
     },
     {
-      "id": "meme-1",
-      "type": "meme",
-      "title": "When the overnight render finishes at 4:07 AM and it's 2 frames short",
-      "category": "",
-      "summary": "",
-      "thumbnail": "https://.../render-meme.jpg",
-      "video": "",
-      "date": "",
-      "source": "",
-      "author": "",
-      "reactions": {
-        "haha": 128,
-        "fire": 41
-      },
-      "sectionAfter": [
-        "script",
-        "afterEffects",
-        [
-          "auto-file-organizer",
-          "batch-rename"
-        ],
-        "Scripts that save you here"
-      ]
-    },
-    {
       "id": "quote-1",
       "type": "quote",
       "title": "Automation is just laziness with good architecture.",
