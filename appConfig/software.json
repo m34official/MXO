@@ -202,6 +202,57 @@
       "config": [],
       "createdAt": "2026-10-04",
       "updatedAt": "2026-10-04"
+    },
+    {
+      "id": "gradient8",
+      "name": "Gradient8",
+      "category": "plugin",
+      "type": "AE Plugin",
+      "version": "v1.4",
+      "author": "grape design",
+      "tagline": "Gradient effect controlled by multiple points",
+      "description": "Control the gradient with multiple points\nUp to 8-Point Gradients",
+      "icon": "https://aescripts.com/media/catalog/product/cache/41c48f3ef0b52a38561130ac3096262e/g/r/gradient8_1920x1080.png",
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "tags": [
+        "color correction",
+        "generate",
+        "gradient",
+        "ae plugin",
+        "aescript"
+      ],
+      "license": "Controlled by aescripts.com",
+      "price": "38.00",
+      "featured": true,
+      "website": "https://intro-hd.net/aescripts-gradient8/",
+      "downloadUrl": "https://usersdrive.com/gk98crr8zpbw.html",
+      "downloads": [
+        {
+          "label": "FileBlade",
+          "url": "https://fileblade.com/aihb9vgzyxqy/Aescripts_Gradient8_v1.4.zip"
+        },
+        {
+          "label": "PreFiles",
+          "url": "https://prefiles.com/h18eqnwct03r/Aescripts_Gradient8_v1.4.zip"
+        }
+      ],
+      "sourceUrl": "https://aescripts.com/gradient8/",
+      "requirements": [
+        "After Effects CC 2023 +"
+      ],
+      "setup": [
+        {
+          "title": "How to setup?",
+          "description": "Read the \"Readme.txt\" file.",
+          "code": null
+        }
+      ],
+      "config": [],
+      "createdAt": "2026-10-04",
+      "updatedAt": "2026-10-04"
     }
   ]
 }
