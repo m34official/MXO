@@ -1,0 +1,28 @@
+{
+  "name": "JhingaLala",
+  "tagline": "Designer • Developer • Automator",
+  "email": "merajulislam.m34@gmail.com",
+  "baseUrl": "www.m34.epizy.com",
+  "socials": [
+    {
+      "label": "WhatsApp",
+      "url": "https://api.whatsapp.com/send?phone=1580888371",
+      "icon": "whatsapp"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://youtube.com/@MerajXo",
+      "icon": "youtube"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/MerajXo",
+      "icon": "github"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/MerajXo",
+      "icon": "instagram"
+    }
+  ]
+}
