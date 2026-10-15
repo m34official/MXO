@@ -2,6 +2,23 @@
   "greeting": "Back again 👋 scroll for what's new.",
   "posts": [
     {
+      "id": "announce-effect-cc-light-sweep-position-fixed",
+      "type": "news",
+      "title": "New effect: CC Light Sweep - Position fixed",
+      "category": "",
+      "summary": "Built on effects. Copy the effect data straight into your project.",
+      "thumbnail": "https://raw.githubusercontent.com/m34official/MXO/main/assets/effects/cc-light-sweep-position-fixed-ccli/lightsweep_positionattached.gif",
+      "video": "",
+      "date": "2026-10-15",
+      "source": "",
+      "author": "",
+      "actionButtonTitle": "Open effects",
+      "onAction": {
+        "type": "tab",
+        "value": "/effects"
+      }
+    },
+    {
       "id": "post-1791044753867",
       "type": "video",
       "title": "Automation is just laziness with good architecture :)",
