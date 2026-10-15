@@ -1,0 +1,21 @@
+{
+  "effects": [
+    {
+      "id": "cc-light-sweep-position-fixed",
+      "name": "CC Light Sweep - Position fixed",
+      "plugin": "effects",
+      "app": "After Effects",
+      "preview": "https://raw.githubusercontent.com/m34official/MXO/main/assets/effects/cc-light-sweep-position-fixed-ccli/lightsweep_positionattached.gif",
+      "effectData": "var cPX = transform.position[0];\r\nvar cPY = transform.position[1];\r\n\r\n[cPX + effect(\"CC Light Sweep\")(\"Center\")[0], cPY + effect(\"CC Light Sweep\")(\"Center\")[1]]",
+      "notes": "Paste this expression on the center value of \"CC Light Sweep\"",
+      "tags": [
+        "expression",
+        "after effects",
+        "ae",
+        "cc light sweep"
+      ],
+      "createdAt": "2026-10-15",
+      "updatedAt": "2026-10-15"
+    }
+  ]
+}
