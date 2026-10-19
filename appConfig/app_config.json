@@ -16,7 +16,7 @@
   "showBlog": true,
   "showTestimonials": true,
   "showSkills": true,
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "themeColor": "#000000",
   "backgroundColor": "#ffffff",
   "defaultLanguage": "en"
