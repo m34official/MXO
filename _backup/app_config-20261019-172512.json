@@ -1,0 +1,23 @@
+{
+  "name": "MerajXo",
+  "tagline": "",
+  "email": "merajulislam.m34@gmail.com",
+  "baseUrl": "www.m34.epizy.com",
+  "version": "1.0.0",
+  "buildNumber": "0.023",
+  "siteTitle": "",
+  "metaDescription": "",
+  "ogImageUrl": "",
+  "twitterHandle": "",
+  "robots": "index, follow",
+  "googleAnalyticsId": "",
+  "googleTagManagerId": "",
+  "showProjects": true,
+  "showBlog": true,
+  "showTestimonials": true,
+  "showSkills": true,
+  "maintenanceMode": false,
+  "themeColor": "#000000",
+  "backgroundColor": "#ffffff",
+  "defaultLanguage": "en"
+}
