@@ -15,7 +15,11 @@
       "actionButtonTitle": "Open effects",
       "onAction": {
         "type": "tab",
-        "value": "/effects"
+        "value": "/scripts"
+      },
+      "reactions": {
+        "haha": 0,
+        "fire": 0
       }
     },
     {
