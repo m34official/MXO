@@ -45,19 +45,25 @@
   ],
   "toolkit": [
     {
-      "group": "Design",
+      "group": "hasda",
       "items": [
-        "Wfssss",
-        "aaaaaaaaa"
+        "asdasd"
       ]
-    },
-    {
-      "group": "h",
-      "items": []
     },
     {
       "group": "Scripting",
       "items": []
+    },
+    {
+      "group": "asdasd",
+      "items": []
+    },
+    {
+      "group": "a",
+      "items": [
+        "b",
+        "c"
+      ]
     }
   ],
   "journey": [
