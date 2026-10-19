@@ -3,6 +3,8 @@
   "tagline": "Designer • Developer • Automator",
   "email": "merajulislam.m34@gmail.com",
   "baseUrl": "www.m34.epizy.com",
+  "version": "1.0.0",
+  "stamp": "dev",
   "socials": [
     {
       "label": "WhatsApp",
