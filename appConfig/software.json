@@ -292,6 +292,46 @@
       "config": [],
       "createdAt": "2026-10-04",
       "updatedAt": "2026-10-04"
+    },
+    {
+      "id": "adobe-illustrator-cc-2021",
+      "name": "Adobe Illustrator CC 2021",
+      "category": "app",
+      "type": "Designing Tool",
+      "version": "25.4.1.498",
+      "author": "Adobe",
+      "tagline": "",
+      "description": "",
+      "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/250px-Adobe_Illustrator_CC_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "platforms": [
+        "windows"
+      ],
+      "tags": [
+        "adobe",
+        "illustrator",
+        "illustrator 2021",
+        "ai 21"
+      ],
+      "license": "https://www.adobe.com/products/illustrator.html",
+      "price": "",
+      "featured": false,
+      "website": "https://getintopc.com/softwares/designing-tool/adobe-illustrator-cc-2021-free-download-7258118/",
+      "downloadUrl": "",
+      "downloads": [],
+      "sourceUrl": "https://www.adobe.com/products/illustrator.html",
+      "requirements": [
+        "Operating System: Windows XP/Vista/7/8/8.1/10\r\nRAM: 2 GB\r\nHard Disk Space: 2 GB of free space required.\r\nProcessor: Intel Pentium 4 or AMD Athlon 64 processor\r\nDisplay: 1024 x 768\r\nOpenGL 4.x"
+      ],
+      "setup": [
+        {
+          "title": "Video Tutorial Attached",
+          "description": "https://148-251-75-109.top/Getintopc.com/Adobe_Illustrator_CC_2021.mp4",
+          "code": null
+        }
+      ],
+      "config": [],
+      "createdAt": "2026-10-25",
+      "updatedAt": "2026-10-25"
     }
   ]
 }
