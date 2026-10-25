@@ -2,6 +2,23 @@
   "greeting": "Back again 👋 scroll for what's new.",
   "posts": [
     {
+      "id": "announce-project-stock-1x1-flayer-bg-x2",
+      "type": "news",
+      "title": "New project: Stock 1x1 Flayer BG X2",
+      "category": "",
+      "summary": "",
+      "thumbnail": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/stock-1x1-flayer-bg-x2-stoc/stock_1x1_flayer_bg_x2.webp",
+      "video": "",
+      "date": "2026-10-25",
+      "source": "",
+      "author": "",
+      "actionButtonTitle": "Open project",
+      "onAction": {
+        "type": "project",
+        "value": "stock-1x1-flayer-bg-x2"
+      }
+    },
+    {
       "id": "announce-effect-cc-light-sweep-position-fixed",
       "type": "news",
       "title": "New effect: CC Light Sweep - Position fixed",
