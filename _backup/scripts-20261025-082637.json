@@ -1,0 +1,30 @@
+{
+  "scripts": [],
+  "categories": [
+    {
+      "id": "cmd",
+      "name": "Windows CMD",
+      "icon": "windows"
+    },
+    {
+      "id": "powershell",
+      "name": "PowerShell",
+      "icon": "terminal"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "icon": "code"
+    },
+    {
+      "id": "after_effects",
+      "name": "After Effects",
+      "icon": "video"
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "icon": "js"
+    }
+  ]
+}
