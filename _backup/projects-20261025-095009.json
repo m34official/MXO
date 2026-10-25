@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "id": "lofi-flyer-series",
+      "title": "Lo-Fi Flyer Series",
+      "category": "flyer",
+      "description": "Monthly event flyer series with a retro grain aesthetic.",
+      "intro": null,
+      "youtubeId": null,
+      "thumbnail": "https://picsum.photos/seed/flyer/800/600",
+      "gallery": [],
+      "tags": [
+        "photoshop",
+        "event",
+        "retro"
+      ],
+      "files": [],
+      "client": "Corner Café",
+      "year": 2023,
+      "createdAt": "2023-06-01",
+      "updatedAt": "2023-09-14"
+    }
+  ]
+}
