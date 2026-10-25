@@ -1,2 +1,25 @@
 {
+  "fonts": [
+    {
+      "id": "poppins",
+      "name": "Poppins",
+      "foundry": "Google Fonts",
+      "weight": "",
+      "style": "",
+      "sourceUrl": "https://fonts.google.com/specimen/Poppins",
+      "license": "OFL",
+      "isFree": true,
+      "isEmbedded": false,
+      "previewUrl": "https://fonts.gstatic.com/s/img/knowledge/modules/choosing_type/lessons/a_checklist_for_choosing_type/images/thumbnail_439626857.svg",
+      "releaseYear": "2009",
+      "notes": null,
+      "tags": [
+        "poppins",
+        "free font",
+        "free to use"
+      ],
+      "createdAt": "2026-10-25",
+      "updatedAt": "2026-10-25"
+    }
+  ]
 }
