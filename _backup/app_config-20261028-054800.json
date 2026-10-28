@@ -1,0 +1,23 @@
+{
+  "name": "MerajXo",
+  "tagline": "",
+  "email": "merajulislam.m34@gmail.com",
+  "baseUrl": "https://merajxo.github.io/MerajXo/",
+  "version": "1.3.0",
+  "buildNumber": "0.023",
+  "siteTitle": "",
+  "metaDescription": "",
+  "ogImageUrl": "",
+  "twitterHandle": "",
+  "robots": "index, follow",
+  "googleAnalyticsId": "",
+  "googleTagManagerId": "",
+  "showProjects": true,
+  "showBlog": true,
+  "showTestimonials": true,
+  "showSkills": true,
+  "maintenanceMode": true,
+  "themeColor": "#000000",
+  "backgroundColor": "#ffffff",
+  "defaultLanguage": "en"
+}
