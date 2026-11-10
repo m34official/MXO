@@ -20,6 +20,37 @@
       ],
       "createdAt": "2026-10-25",
       "updatedAt": "2026-10-25"
+    },
+    {
+      "id": "broadway",
+      "name": "Broadway",
+      "foundry": "DaFont",
+      "weight": "",
+      "style": "regular",
+      "sourceUrl": "https://dl.dafont.com/dl/?f=broadway",
+      "license": "",
+      "isFree": false,
+      "isEmbedded": false,
+      "previewUrl": "https://www.dafont.com/img/illustration/b/r/broadway.png",
+      "releaseYear": "August 21, 2018",
+      "notes": null,
+      "tags": [
+        "broadwayflat",
+        "broadwayflat-italic",
+        "broadway",
+        "broadway-italic",
+        "broadwayflat3d",
+        "broadwayflat3d-italic",
+        "broadwaygradient3d",
+        "broadwaygradient3d-italic",
+        "broadwayflat3dfilled",
+        "broadwayflat3dfilled-italic",
+        "broadwayshadow",
+        "broadwayshadow-italic",
+        "broadway3d"
+      ],
+      "createdAt": "2026-11-10",
+      "updatedAt": "2026-11-10"
     }
   ]
 }
