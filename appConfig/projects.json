@@ -83,7 +83,7 @@
       "title": "Comic cosmic assignment Package",
       "category": "motion_graphics",
       "description": "",
-      "intro": null,
+      "intro": "https://github.com/MerajXo/MXO/raw/refs/heads/main/assets/projects/comic-cosmic-assignment-comi/T%20n%20C%203D%20Presentation%20.mp4",
       "tagline": null,
       "youtubeId": null,
       "thumbnail": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/portfolio34_c_fuad_badhon.jpg",
@@ -103,7 +103,13 @@
       ],
       "variants": [],
       "faq": [],
-      "files": [],
+      "files": [
+        {
+          "name": "SawX Comic Design",
+          "url": "https://drive.google.com/uc?export=download&id=1EX5jw75JWpsNhVMFmax4MBOoNwQRECQm",
+          "kind": "source"
+        }
+      ],
       "spec": {},
       "translations": {},
       "client": "Fuad Badhon",
