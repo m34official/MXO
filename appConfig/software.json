@@ -373,6 +373,42 @@
       "config": [],
       "createdAt": "2026-11-12",
       "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "fl-studio-2026",
+      "name": "Fl Studio 2026",
+      "category": "app",
+      "type": "",
+      "version": "2026",
+      "author": "ImageLine",
+      "tagline": "",
+      "description": "Fl Studio 2026 is one of the world’s most popular DAWs, used by beginners, hobbyists, and professional producers to create electronic music, hip-hop, pop, rock, orchestral scores, podcasts, film music, and game soundtracks. It also includes a built-in playlist where users can arrange patterns, audio clips, automation clips, and recordings into a complete composition. Additionally, it includes a powerful Step Sequencer allowing for rapid programming of beats and rhythmic patterns. The program is available for Windows macOS, Android, iOS, and iPadOS, allowing users to create music on mobile devices. The program supports all the popular formats such as WAV, MP3, FLAC, OGG, AIFF, MIDI. In simple terms, Fl Studio 2026 is a universal Digital Audio Workstation that provides an all-in-one platform for composing, recording, arranging, editing, mixing, and mastering music.",
+      "icon": "https://media.getintopc.com/2026/07/Fl-Studio-2026-Free-Download-GetintoPC.com_-144x144.jpg",
+      "thumbnail": "https://media.getintopc.com/2026/07/Fl-Studio-2026-Free-Download-GetintoPC.com_.jpg",
+      "platforms": [
+        "windows"
+      ],
+      "tags": [
+        "fl studio",
+        "audio editing"
+      ],
+      "license": "",
+      "price": "",
+      "featured": false,
+      "website": "https://www.image-line.com/",
+      "downloadUrl": "https://getintopc.com/softwares/audio-processing/fl-studio-2026-free-download/",
+      "downloads": [],
+      "sourceUrl": "",
+      "requirements": [
+        "Operating System: Windows 7/8/10",
+        "RAM: 4 GB",
+        "Hard Disk: 4 GB",
+        "Processor: Intel Dual Core or higher processor"
+      ],
+      "setup": [],
+      "config": [],
+      "createdAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
     }
   ]
 }
