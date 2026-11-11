@@ -88,8 +88,13 @@
       "youtubeId": null,
       "thumbnail": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/portfolio34_c_fuad_badhon.jpg",
       "breakdowns": [],
-      "effectIds": [],
-      "softwareIds": [],
+      "effectIds": [
+        "cc-light-sweep-position-fixed"
+      ],
+      "softwareIds": [
+        "gradient8",
+        "aescripts-flow"
+      ],
       "fontIds": [
         "broadway",
         "poppins"
