@@ -1,108 +1,123 @@
 {
   "hero": {
-    "alias": "MerajXo",
-    "name": "MD. Merajul Islam",
-    "title": "Design ° Develop ° Enjoy",
-    "tagline": "VICTORY IS IMPOSSIBLE WITHOUT SACRIFICE",
-    "backdrop": "https://images.pexels.com/photos/31346405/pexels-photo-31346405.jpeg",
+    "alias": "MerajXO",
+    "name": "MD Meraju Islam",
+    "title": "Motion Designer & Creative Developer",
+    "tagline": "I turn ideas into motion, pixels into stories, and repetitive tasks into one-click scripts.",
+    "backdrop": "",
     "socials": [
-      {
-        "label": "Instagram",
-        "icon": "instagram",
-        "url": "www.instagram.com/merajxo"
-      },
-      {
-        "label": "Facebook",
-        "icon": "facebook",
-        "url": "www.facebook.com/merajxo"
-      },
-      {
-        "label": "GitHub",
-        "icon": "github",
-        "url": "www.github.com/merajxo"
-      }
+      { "label": "Instagram", "icon": "instagram", "url": "https://www.instagram.com/merajxo" },
+      { "label": "YouTube", "icon": "youtube", "url": "https://www.youtube.com/@merajxo" },
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/m34official" },
+      { "label": "Email", "icon": "email", "url": "mailto:merajxo@gmail.com" }
     ]
   },
   "story": {
-    "eyebrow": "The one person studio",
-    "lede": "Bold intro line",
-    "image": "https://i.pinimg.com/736x/b7/73/27/b77327bb3e150b2d21e5a3a4acf2dbcb.jpg",
+    "eyebrow": "The story so far",
+    "lede": "I'm a self-taught motion designer and developer from Bangladesh who believes great design should move — literally.",
+    "image": "",
     "paragraphs": [
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      "What started as curiosity in After Effects turned into a full-blown obsession with motion graphics, visual effects, and creative automation. I've spent years learning the craft — not through courses, but by breaking things, rebuilding them, and sharing what I figured out along the way.",
+      "Today I work on a mix of client projects and personal experiments: title animations for brands, surreal composites, PowerShell tools that save hours of busywork, and After Effects expressions that solve problems nobody else seems to have solved yet.",
+      "This portfolio is a living archive of that work. Every project here is something I actually built — no mockups, no concept art that never shipped. If it's here, it ran."
     ]
   },
   "process": [
     {
-      "icon": "language",
-      "title": "What is this Process Step",
-      "desc": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      "icon": "lightbulb",
+      "title": "Understand",
+      "desc": "Every project starts with a conversation. What are you trying to say? Who's watching? What should they feel? I sketch rough directions before touching any software."
     },
     {
-      "icon": "animation",
-      "title": "How I do my animation works?",
-      "desc": "This is non of your business :)"
+      "icon": "design",
+      "title": "Design",
+      "desc": "Mood boards, style frames, and motion tests. I nail the look in still frames first, then figure out how it moves. This is where most of the creative decisions happen."
+    },
+    {
+      "icon": "motion",
+      "title": "Animate",
+      "desc": "Keyframes, expressions, and a lot of timeline scrubbing. This is the fun part — watching static frames come alive. I render low-res previews constantly to check timing."
+    },
+    {
+      "icon": "deliver",
+      "title": "Deliver",
+      "desc": "Final render, organized project files, and documentation. I hand over clean AE projects with named layers, not a mess of 'Untitled Composition 7.'"
     }
   ],
   "toolkit": [
     {
-      "group": "hasda",
-      "items": [
-        "asdasd"
-      ]
+      "group": "Motion & VFX",
+      "items": ["After Effects", "Premiere Pro", "Media Encoder", "CC Light Sweep", "Trapcode Particular", "Optical Flares"]
     },
     {
-      "group": "Scripting",
-      "items": []
+      "group": "Design",
+      "items": ["Photoshop", "Illustrator", "Figma", "Canva Pro"]
     },
     {
-      "group": "asdasd",
-      "items": []
+      "group": "3D & Compositing",
+      "items": ["Blender", "Cinema 4D Lite", "After Effects 3D Camera Tracker"]
     },
     {
-      "group": "a",
-      "items": [
-        "b",
-        "c"
-      ]
+      "group": "Development",
+      "items": ["Dart / Flutter", "JavaScript", "PowerShell", "Python", "Git & GitHub"]
+    },
+    {
+      "group": "Audio",
+      "items": ["Audition", "MediaKit", "FFmpeg"]
     }
   ],
   "journey": [
     {
-      "year": "2020",
-      "title": "Beginning of a new era",
-      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+      "year": "2019",
+      "title": "First After Effects project",
+      "desc": "A 10-second logo reveal for a school event. It took 6 hours. I was hooked."
     },
     {
-      "year": "2021",
-      "title": "Starting from 0",
-      "desc": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+      "year": "2020",
+      "title": "Started freelancing",
+      "desc": "Social media kits, YouTube thumbnails, and intros for small creators. Learned to work fast and communicate clearly."
+    },
+    {
+      "year": "2022",
+      "title": "Discovered automation",
+      "desc": "Wrote my first PowerShell script to batch-rename 200 files. Realized creative automation is its own art form."
+    },
+    {
+      "year": "2023",
+      "title": "Built MERAJXO",
+      "desc": "Designed and developed my own portfolio app in Flutter — the one you're looking at right now. Manager app + portfolio, fully self-hosted on GitHub."
+    },
+    {
+      "year": "2024",
+      "title": "Sharing back",
+      "desc": "Started publishing After Effects expressions, scripts, and design resources for other creators to use freely."
     }
   ],
   "gallery": [
     {
-      "title": "This is a title.",
-      "caption": "Caption 1",
-      "image": "https://images.pexels.com/photos/18872916/pexels-photo-18872916.jpeg"
+      "title": "Surreal Dream — Melting Fire",
+      "caption": "Compositing experiment",
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/surreal_dream_melting_fire.jpg"
     },
     {
-      "title": "Title 2",
-      "caption": "Caption 2",
-      "image": "https://images.pexels.com/photos/12249545/pexels-photo-12249545.jpeg"
+      "title": "Surreal Dream — Universe",
+      "caption": "Space compositing",
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/surreal_dream_universe.jpg"
     },
     {
-      "title": "Title 3",
-      "caption": "Caption 3",
-      "image": "https://images.pexels.com/photos/28706140/pexels-photo-28706140.jpeg"
+      "title": "Surreal Dream — Jelly",
+      "caption": "Underwater surrealism",
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/surreal_dream_jelly.jpg"
     },
     {
-      "title": "Title 4",
-      "caption": "Caption 4",
-      "image": "https://images.pexels.com/photos/28636085/pexels-photo-28636085.jpeg"
+      "title": "Lucirion Landscape",
+      "caption": "Matte painting — The Great Collapse",
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/lucirion_landscape.jpg"
     }
   ],
-  "showreel": "https://videos.pexels.com/video-files/17564236/uhd_30fps.mp4",
+  "showreel": "",
   "contact": {
-    "email": "testme@gmail.com",
-    "intro": "Say Hi :)"
+    "email": "merajxo@gmail.com",
+    "intro": "Have a project in mind? I work with brands, creators, and studios on motion graphics, visual effects, and creative automation. Drop me a line — I usually reply within a day."
   }
 }
