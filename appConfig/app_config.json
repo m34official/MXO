@@ -1,14 +1,15 @@
 {
-  "name": "MerajXo",
-  "tagline": "Victory is impossible without sacrifice",
-  "email": "merajulislam.m34@gmail.com",
-  "baseUrl": "https://merajxo.github.io/MerajXo/",
-  "version": "0.9.0",
-  "buildNumber": "20261111-1550",
-  "siteTitle": "MerajXo",
-  "metaDescription": "",
+  "name": "MD Meraju Islam",
+  "tagline": "Motion designer · Graphic artist · Automation developer",
+  "email": "merajxo@gmail.com",
+  "baseUrl": "https://merajxo.github.io/MerajXo",
+  "version": "1.0.0",
+  "buildNumber": "20261112-0001",
+  "min": 0,
+  "siteTitle": "MERAJXO — Creative Portfolio",
+  "metaDescription": "MD Meraju Islam — motion graphics, graphic design, and automation tools. Browse projects, scripts, effects, software, and music.",
   "ogImageUrl": "",
-  "twitterHandle": "merajxo",
+  "twitterHandle": "@merajxo",
   "robots": "index, follow",
   "googleAnalyticsId": "",
   "googleTagManagerId": "",
@@ -19,11 +20,33 @@
   "showMusic": true,
   "showLanding": false,
   "showAbout": true,
-  "showBlog": true,
-  "showTestimonials": true,
-  "showSkills": true,
+  "showBlog": false,
+  "showTestimonials": false,
+  "showSkills": false,
   "maintenanceMode": false,
-  "themeColor": "#000000",
-  "backgroundColor": "#ffffff",
-  "defaultLanguage": "en"
+  "themeColor": "#0A84FF",
+  "backgroundColor": "#000000",
+  "defaultLanguage": "en",
+  "socials": [
+    {
+      "label": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/merajxo"
+    },
+    {
+      "label": "YouTube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@merajxo"
+    },
+    {
+      "label": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/m34official"
+    },
+    {
+      "label": "Email",
+      "icon": "email",
+      "url": "mailto:merajxo@gmail.com"
+    }
+  ]
 }
