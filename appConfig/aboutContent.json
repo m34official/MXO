@@ -6,10 +6,26 @@
     "tagline": "I turn ideas into motion, pixels into stories, and repetitive tasks into one-click scripts.",
     "backdrop": "",
     "socials": [
-      { "label": "Instagram", "icon": "instagram", "url": "https://www.instagram.com/merajxo" },
-      { "label": "YouTube", "icon": "youtube", "url": "https://www.youtube.com/@merajxo" },
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/m34official" },
-      { "label": "Email", "icon": "email", "url": "mailto:merajxo@gmail.com" }
+      {
+        "label": "Instagram",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/merajxo"
+      },
+      {
+        "label": "YouTube",
+        "icon": "youtube",
+        "url": "https://www.youtube.com/@merajxo"
+      },
+      {
+        "label": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/m34official"
+      },
+      {
+        "label": "Email",
+        "icon": "email",
+        "url": "mailto: merajulislam.m34@gmail.com"
+      }
     ]
   },
   "story": {
@@ -47,23 +63,49 @@
   "toolkit": [
     {
       "group": "Motion & VFX",
-      "items": ["After Effects", "Premiere Pro", "Media Encoder", "CC Light Sweep", "Trapcode Particular", "Optical Flares"]
+      "items": [
+        "After Effects",
+        "Premiere Pro",
+        "Media Encoder",
+        "CC Light Sweep",
+        "Trapcode Particular",
+        "Optical Flares"
+      ]
     },
     {
       "group": "Design",
-      "items": ["Photoshop", "Illustrator", "Figma", "Canva Pro"]
+      "items": [
+        "Photoshop",
+        "Illustrator",
+        "Figma",
+        "Canva Pro"
+      ]
     },
     {
       "group": "3D & Compositing",
-      "items": ["Blender", "Cinema 4D Lite", "After Effects 3D Camera Tracker"]
+      "items": [
+        "Blender",
+        "Cinema 4D Lite",
+        "After Effects 3D Camera Tracker"
+      ]
     },
     {
       "group": "Development",
-      "items": ["Dart / Flutter", "JavaScript", "PowerShell", "Python", "Git & GitHub"]
+      "items": [
+        "Dart / Flutter",
+        "JavaScript",
+        "PowerShell",
+        "Python",
+        "Git & GitHub"
+      ]
     },
     {
       "group": "Audio",
-      "items": ["Audition", "MediaKit", "FFmpeg"]
+      "items": [
+        "Audition",
+        "MediaKit",
+        "FFmpeg"
+      ]
     }
   ],
   "journey": [
@@ -97,27 +139,26 @@
     {
       "title": "Surreal Dream — Melting Fire",
       "caption": "Compositing experiment",
-      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/surreal_dream_melting_fire.jpg"
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/portfolio34_c_fuad_badhon.jpg"
     },
     {
       "title": "Surreal Dream — Universe",
       "caption": "Space compositing",
-      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/surreal_dream_universe.jpg"
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/surreal_dream_jelly.jpg"
     },
     {
       "title": "Surreal Dream — Jelly",
       "caption": "Underwater surrealism",
-      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/surreal_dream_jelly.jpg"
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/surreal_dream_melting_fire.jpg"
     },
     {
       "title": "Lucirion Landscape",
       "caption": "Matte painting — The Great Collapse",
-      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment/lucirion_landscape.jpg"
+      "image": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/comic-cosmic-assignment-comi/sawx_magazine_cover.jpg"
     }
   ],
-  "showreel": "",
   "contact": {
-    "email": "merajxo@gmail.com",
+    "email": "merajulislam.m34@gmail.com",
     "intro": "Have a project in mind? I work with brands, creators, and studios on motion graphics, visual effects, and creative automation. Drop me a line — I usually reply within a day."
   }
 }
