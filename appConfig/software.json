@@ -37,6 +37,7 @@
       "tagline": "Free Download Adobe After Effects Pre-Activated Offline Installer for Windows",
       "description": "Create animated titles, credits, and lower thirds. Start from scratch or with one of the animation presets available inside the app. There are countless ways to make your text move with After Effects, from spin to swipe to slide.\r\n\r\nCombine videos and images to send a UFO across the sky, blur out a logo, or create an explosion — endless possibilities. There are hundreds of effects to get the look you want, from adding fog to changing colors to making it snow.\r\n\r\nAfter Effects works seamlessly with other Adobe apps, creates comps, and immediately sees how they look in Premiere Pro CC with Adobe Dynamic Link. Import work from Photoshop, Illustrator, Illustrator, Illustrator, Illustrator, Character Animator, Adobe XD, and Animate CC. Use Team Projects to collaborate with editors no matter where they’re located. And After Effects is integrated with 300+ software and hardware partners.\r\n\r\nAdobe offers a complete set of animation apps that work with all your ideas — and each other. Create cinematic movie titles, intros, transitions, and more with After Effects CC. Use Animate CC to create interactive vector animations for games, apps, and the web. Animate characters in real-time with Character Animator CC. And move seamlessly between them with the most comprehensive integration out there.",
       "icon": "https://wsrv.nl/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2023%2F03%2Fadobe-after-effects-0032%2FAdobe_After_Effects_CC_icon.png&w=64&q=80&output=webp&we",
+      "thumbnail": "",
       "platforms": [
         "windows"
       ],
@@ -118,6 +119,7 @@
       "tagline": "Intuitive controls for animation curves",
       "description": "Download Aescripts Flow v1.5.2 and enjoy the best experience where you will find what you needed and what you searched for. Our site also provides templates for After Effects, Premiere Pro, Final Cut, Luts, Royalty free sound effects and much more.\r\n\r\nFlow provides a simple, clean, and intuitive curve editor to adjust your keyframe easing.\r\n\r\nFlow gives After Effects an intuitive curve editor to adjust keyframe easing.\r\n\r\nGone are the days of fighting with speed & influence (what do those even mean?!), or navigating through some bloated 8000-features-in-one garbage pile to find their easing system – just make a curve, hit Apply and you’re gold!",
       "icon": "https://intro-hd.net/wp-content/themes/takprog/assets/img/logo.png",
+      "thumbnail": "",
       "platforms": [
         "windows",
         "macos"
@@ -161,6 +163,7 @@
       "tagline": "Gradient effect controlled by multiple points",
       "description": "Control the gradient with multiple points\nUp to 8-Point Gradients",
       "icon": "https://aescripts.com/media/catalog/product/cache/41c48f3ef0b52a38561130ac3096262e/g/r/gradient8_1920x1080.png",
+      "thumbnail": "",
       "platforms": [
         "windows",
         "macos"
@@ -212,6 +215,7 @@
       "tagline": "Industry Leading Vector Design Tool.",
       "description": "The drawing program is a professional solution for designing professional vector-based illustrations for posters, business letters, business cards, brochures, websites, and menus. You can bundle and group up to 100 large drawings in a single Illustrator file.\r\n\r\nVia a selection list, you can access the desired element directly. \"Adobe Illustrator\" reads all major formats such as EPS, FXG, PSD, TIFF, GIF, JPEG, SWF, SVG, DWG, or DXF. If you want to pass on your designs, \"package files\" offer themselves. Here, you summarize all required fonts and graphics in one folder. Alternatively, secure your print-sharing designs as multi-page PDF documents with Illustrator layers.",
       "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/250px-Adobe_Illustrator_CC_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail": "",
       "platforms": [
         "windows"
       ],
@@ -251,6 +255,7 @@
       "tagline": "",
       "description": "",
       "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/250px-Adobe_Illustrator_CC_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail": "",
       "platforms": [
         "windows"
       ],
@@ -280,6 +285,45 @@
       "config": [],
       "createdAt": "2026-10-25",
       "updatedAt": "2026-10-25"
+    },
+    {
+      "id": "adobe-photoshop-cc-2026",
+      "name": "Adobe Photoshop CC 2026",
+      "category": "app",
+      "type": "Photo editing",
+      "version": "",
+      "author": "",
+      "tagline": "",
+      "description": "Free download: Adobe Photoshop contains the most advanced tools for working with images, offering new opportunities to realize creative ideas that significantly enhance performance. Edit images with exceptional accuracy and use new intuitive tools and workflows for creating three-dimensional graphics, two-dimensional projects, and films.\n\nDraw and paint whatever you dream up with tools designed especially for illustrators. Paint in perfectly symmetrical patterns. Get polished looks with stroke smoothing. And create with pencils, pens, markers, and brushes that feel real, including more than 1,000 from celebrated illustrator Kyle T. Webster.",
+      "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Photoshop_CC_2026_icon.svg/330px-Adobe_Photoshop_CC_2026_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail": "https://wsrv.nl/?url=https://media.imgcdn.org/repo/2023/03/adobe-photoshop/69087bc3bdc8c-adobe-photoshop-screenshot1.webp&w=1920&q=80&we",
+      "platforms": [
+        "windows"
+      ],
+      "tags": [
+        "photoshop",
+        "ps",
+        "cc"
+      ],
+      "license": "",
+      "price": "",
+      "featured": false,
+      "website": "https://filecr.com/windows/adobe-photoshop-download-0082/?id=235364240000",
+      "downloadUrl": "",
+      "downloads": [
+        {
+          "label": "Torrent",
+          "url": "magnet:?xt=urn:btih:428c72ff4aac627830cfacdc8622be0e908c3b65&tr=http%3A%2F%2Frutracker.ru%2Fbt%2Fannounce.php%3Fuk%3D"
+        }
+      ],
+      "sourceUrl": "",
+      "requirements": [
+        "Processor: Intel or AMD processor with 64-bit support; 2 GHz or faster processor\nOperating system: Microsoft Windows 10, 11\nRAM: 8 GB RAM (16 GB recommended)\nHard disk space: 8 GB or more of available hard disk space for 64-bit installation; additional free space required during installation (cannot install on a volume that uses a case-sensitive file system)\nMonitor resolution: Screen resolution of 1280x800 with 100% UI scaling (1920x1080 with 150% scaling recommended)\nGraphics processor acceleration requirements: OpenGL 2.0-capable system"
+      ],
+      "setup": [],
+      "config": [],
+      "createdAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
     }
   ]
 }
