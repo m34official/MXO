@@ -291,8 +291,8 @@
       "name": "Adobe Photoshop CC 2026",
       "category": "app",
       "type": "Photo editing",
-      "version": "",
-      "author": "",
+      "version": "2026",
+      "author": "Adobe",
       "tagline": "",
       "description": "Free download: Adobe Photoshop contains the most advanced tools for working with images, offering new opportunities to realize creative ideas that significantly enhance performance. Edit images with exceptional accuracy and use new intuitive tools and workflows for creating three-dimensional graphics, two-dimensional projects, and films.\n\nDraw and paint whatever you dream up with tools designed especially for illustrators. Paint in perfectly symmetrical patterns. Get polished looks with stroke smoothing. And create with pencils, pens, markers, and brushes that feel real, including more than 1,000 from celebrated illustrator Kyle T. Webster.",
       "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Photoshop_CC_2026_icon.svg/330px-Adobe_Photoshop_CC_2026_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
@@ -307,7 +307,7 @@
       ],
       "license": "",
       "price": "",
-      "featured": false,
+      "featured": true,
       "website": "https://filecr.com/windows/adobe-photoshop-download-0082/?id=235364240000",
       "downloadUrl": "",
       "downloads": [
@@ -318,7 +318,56 @@
       ],
       "sourceUrl": "",
       "requirements": [
-        "Processor: Intel or AMD processor with 64-bit support; 2 GHz or faster processor\nOperating system: Microsoft Windows 10, 11\nRAM: 8 GB RAM (16 GB recommended)\nHard disk space: 8 GB or more of available hard disk space for 64-bit installation; additional free space required during installation (cannot install on a volume that uses a case-sensitive file system)\nMonitor resolution: Screen resolution of 1280x800 with 100% UI scaling (1920x1080 with 150% scaling recommended)\nGraphics processor acceleration requirements: OpenGL 2.0-capable system"
+        "Processor: Intel or AMD processor with 64-bit support; 2 GHz or faster processor",
+        "Operating system: Microsoft Windows 10, 11",
+        "RAM: 8 GB RAM (16 GB recommended)",
+        "Hard disk space: 8 GB or more of available hard disk space for 64-bit installation; additional free space required during installation (cannot install on a volume that uses a case-sensitive file system)",
+        "Monitor resolution: Screen resolution of 1280x800 with 100% UI scaling (1920x1080 with 150% scaling recommended)",
+        "Graphics processor acceleration requirements: OpenGL 2.0-capable system"
+      ],
+      "setup": [],
+      "config": [],
+      "createdAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "adobe-media-encoder-2025",
+      "name": "Adobe Media Encoder 2025",
+      "category": "app",
+      "type": "",
+      "version": "2025",
+      "author": "Adobe",
+      "tagline": "",
+      "description": "This powerful media management tool Adobe Media Encoder allows you to work with media in a unified way across applications. Tight integration with Adobe Premiere Pro CC, After Effects CC, and other applications provides a seamless workflow.\n\nWith Premiere Pro, Audition, and other Adobe Creative Cloud family media packages, you get free Adobe Media Encoder for media processing, conversion, and export.",
+      "icon": "https://wsrv.nl/?url=https://media.imgcdn.org/repo/2023/03/adobe-media-encoder-0001/Adobe_Media_Encoder_Icon.png&w=128&q=80&output=webp&we",
+      "thumbnail": "https://wsrv.nl/?url=https://media.imgcdn.org/repo/2023/03/adobe-media-encoder/6978996c35f5c-adobe-media-encoder-FeatureImage.webp&w=1920&q=80&we",
+      "platforms": [
+        "windows"
+      ],
+      "tags": [
+        "media encoder",
+        "me",
+        "adobe"
+      ],
+      "license": "",
+      "price": "",
+      "featured": false,
+      "website": "https://filecr.com/windows/adobe-media-encoder-0012/?id=500931970000",
+      "downloadUrl": "https://filecr.com/windows/adobe-media-encoder-0012/?id=500931970000",
+      "downloads": [
+        {
+          "label": "Torrent ",
+          "url": "magnet:?xt=urn:btih:c457ce2eec2fb98f1c960f2f13753b89b05a78b9&tr=http%3A%2F%2Frutracker.ru%2Fbt%2Fannounce.php%3Fuk%3D"
+        }
+      ],
+      "sourceUrl": "",
+      "requirements": [
+        "Multicore processor with 64-bit support required",
+        "Microsoft Windows 7 with Service Pack 1 (64-bit) or Windows 8.1 (64-bit), or Windows 10 (64-bit)",
+        "Supports Windows 10 Creator Edition",
+        "4 GB of available hard-disk space; additional free space required during installation (cannot install on removable flash storage devices)",
+        "1024x768 display (1280x800 recommended)",
+        "Optional: Adobe-recommended GPU card for GPU-accelerated performance"
       ],
       "setup": [],
       "config": [],
