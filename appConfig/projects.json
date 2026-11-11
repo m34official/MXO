@@ -90,7 +90,10 @@
       "breakdowns": [],
       "effectIds": [],
       "softwareIds": [],
-      "fontIds": [],
+      "fontIds": [
+        "broadway",
+        "poppins"
+      ],
       "tags": [],
       "keywords": [],
       "dominantColors": [],
@@ -144,7 +147,7 @@
       "issueTrackerUrl": null,
       "commentsEnabled": true,
       "createdAt": "2026-11-10",
-      "updatedAt": "2026-11-10"
+      "updatedAt": "2026-11-11"
     }
   ]
 }
