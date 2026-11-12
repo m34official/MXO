@@ -4,7 +4,7 @@
     "name": "MD Meraju Islam",
     "title": "Motion Designer & Creative Developer",
     "tagline": "I turn ideas into motion, pixels into stories, and repetitive tasks into one-click scripts.",
-    "backdrop": "",
+    "backdrop": "https://i.pinimg.com/736x/6d/34/e3/6d34e3e6dd2d1de9cc4fc48a4e43e610.jpg",
     "socials": [
       {
         "label": "Instagram",
@@ -25,13 +25,18 @@
         "label": "Email",
         "icon": "email",
         "url": "mailto: merajulislam.m34@gmail.com"
+      },
+      {
+        "label": "Facebook",
+        "icon": "facebook",
+        "url": "www.facebook.com/merajxo"
       }
     ]
   },
   "story": {
     "eyebrow": "The story so far",
     "lede": "I'm a self-taught motion designer and developer from Bangladesh who believes great design should move — literally.",
-    "image": "",
+    "image": "https://i.pinimg.com/736x/23/55/35/235535d4caed1f51eea28c9c52bcdf27.jpg",
     "paragraphs": [
       "What started as curiosity in After Effects turned into a full-blown obsession with motion graphics, visual effects, and creative automation. I've spent years learning the craft — not through courses, but by breaking things, rebuilding them, and sharing what I figured out along the way.",
       "Today I work on a mix of client projects and personal experiments: title animations for brands, surreal composites, PowerShell tools that save hours of busywork, and After Effects expressions that solve problems nobody else seems to have solved yet.",
