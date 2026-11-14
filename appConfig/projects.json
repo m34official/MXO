@@ -311,7 +311,11 @@
           "id": "",
           "title": "Workflow",
           "images": [
-            "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE2.webp"
+            "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE1.webp",
+            "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE2.webp",
+            "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE3.webp",
+            "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE4.webp",
+            "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE5.webp"
           ]
         }
       ],
@@ -330,14 +334,7 @@
       "tags": [],
       "keywords": [],
       "dominantColors": [],
-      "previewImages": [
-        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE1.webp",
-        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE2.webp",
-        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE3.webp",
-        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE4.webp",
-        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025_BTE5.webp",
-        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Sony Plus/Pohela_Boishakh_Campaign_2025.webp"
-      ],
+      "previewImages": [],
       "variants": [],
       "faq": [],
       "files": [],
