@@ -181,7 +181,13 @@
       ],
       "variants": [],
       "faq": [],
-      "files": [],
+      "files": [
+        {
+          "name": "",
+          "url": "",
+          "kind": "asset"
+        }
+      ],
       "spec": {
         "durationSec": 30,
         "aspectRatio": "9:16",
