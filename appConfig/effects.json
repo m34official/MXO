@@ -16,6 +16,28 @@
       ],
       "createdAt": "2026-10-15",
       "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "subspeciality-story-appearance-3",
+      "name": "SubSpeciality Story - Appearance 3",
+      "plugin": "effects",
+      "app": "Illustrator",
+      "preview": "https://raw.githubusercontent.com/m34official/MXO/main/assets/effects/subspeciality-story-appearance-3-subs/subspeciality_story_appearance_thumb.webp",
+      "effectData": "",
+      "notes": "",
+      "files": [
+        {
+          "name": "SubSpeciality Story - Appearance 3",
+          "url": "https://raw.githubusercontent.com/m34official/MXO/main/assets/effects/subspeciality-story-appearance-3-subs/subspeciality_story_appearance_3.ai",
+          "kind": "asset",
+          "format": ".ai",
+          "fileSizeBytes": 7366252,
+          "colorMode": "RGB"
+        }
+      ],
+      "tags": [],
+      "createdAt": "2026-11-16",
+      "updatedAt": "2026-11-16"
     }
   ]
 }
