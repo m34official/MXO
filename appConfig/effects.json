@@ -35,6 +35,11 @@
           "colorMode": "RGB"
         }
       ],
+      "previewImages": [
+        "https://raw.githubusercontent.com/m34official/MXO/main/assets/effects/subspeciality-story-appearance-3-subs/subspeciality_story_appearance_panel_layers.webp",
+        "https://raw.githubusercontent.com/m34official/MXO/main/assets/effects/subspeciality-story-appearance-3-subs/subspeciality_story_appearance_panel.webp",
+        "https://raw.githubusercontent.com/m34official/MXO/main/assets/effects/subspeciality-story-appearance-3-subs/subspeciality_story_appearance_ss.webp"
+      ],
       "tags": [],
       "createdAt": "2026-11-16",
       "updatedAt": "2026-11-16"
