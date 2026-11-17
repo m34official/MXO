@@ -382,6 +382,109 @@
       "commentsEnabled": true,
       "createdAt": "2026-11-15",
       "updatedAt": "2026-11-15"
+    },
+    {
+      "id": "shajshiri-promo-2",
+      "title": "ShajShiri Promo-2",
+      "category": "video",
+      "description": "A 9:16 vertical Facebook Reel for ShajShiri, a Dhaka-based saree brand, showcasing a handwoven white pastel-check cotton saree with multicolored butis and a woven pallu. I edited the full promo — beat-synced model shots by the carved wooden door, fabric close-ups with zoom transitions, soft cross-dissolves between scenes, and a clean logo end-card with the brand URL.",
+      "intro": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Shaj-Shiri/ShajShiri White.mp4",
+      "tagline": "Everyday elegance, woven in color",
+      "youtubeId": null,
+      "thumbnail": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Shaj-Shiri/ShajShiri White.webp",
+      "breakdowns": [],
+      "effectIds": [],
+      "softwareIds": [
+        "adobe-after-effects-2026",
+        "adobe-media-encoder-2025"
+      ],
+      "fontIds": [
+        "montserrat",
+        "poppins"
+      ],
+      "tags": [
+        "saree",
+        "fashion-reel",
+        "brand-promo",
+        "facebook-reels",
+        "vertical-video",
+        "handloom",
+        "textile",
+        "check-pattern",
+        "pastel",
+        "reels-editing"
+      ],
+      "keywords": [
+        "ShajShiri saree",
+        "saree promotional video",
+        "facebook reels editing",
+        "fashion reel Bangladesh",
+        "handloom saree ad",
+        "check cotton saree",
+        "saree brand promo",
+        "after effects fashion reel",
+        "vertical video editing"
+      ],
+      "dominantColors": [
+        "#FAF6F2",
+        "#F2A7C3",
+        "#B98FE0",
+        "#8FD4E8",
+        "#93C9A5",
+        "#E6A97C"
+      ],
+      "previewImages": [
+        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Shaj-Shiri/ShajShiri White 003.webp",
+        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Shaj-Shiri/ShajShiri White 004.webp",
+        "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Shaj-Shiri/ShajShiri White 005.webp"
+      ],
+      "variants": [],
+      "faq": [],
+      "files": [],
+      "spec": {
+        "durationSec": 30,
+        "aspectRatio": "9:16",
+        "editingSoftware": "aem"
+      },
+      "translations": {
+        "bn": {
+          "title": "শাজশিরি প্রোমো-২",
+          "description": "ঢাকাভিত্তিক শাড়ি ব্র্যান্ড শাজশিরির জন্য ৯:১৬ ভার্টিক্যাল ফেসবুক রিল — হাতে বোনা সাদা প্যাস্টেল চেক সুতি শাড়ির প্রমোশনাল ভিডিও এডিটিং।"
+        }
+      },
+      "client": "ShajShiri",
+      "year": 2026,
+      "license": "cc_by_nc",
+      "licenseUrl": null,
+      "commercialUseAllowed": false,
+      "attributionRequired": false,
+      "redistributionAllowed": false,
+      "status": "published",
+      "visibility": "public",
+      "featured": false,
+      "version": "1.0.0",
+      "originalPublishDate": null,
+      "sourceUrl": "https://www.facebook.com/reel/1845362322977184",
+      "altText": "Model wearing a white pastel-check cotton saree with multicolored butis, posing in front of a carved wooden door; close-ups of the woven pallu and fringes; ends with the ShajShiri logo and website www.shajshiri.com.",
+      "metaDescription": "ShajShiri Promo-2 — a 30-second 9:16 Facebook Reel for the ShajShiri saree brand (Dhaka), showcasing a handwoven pastel-check cotton saree. Edited in After Effects with beat-synced transitions and a branded end-card.",
+      "subcategory": "reels",
+      "style": "commercial-fashion",
+      "mood": "soft, elegant, playful",
+      "industry": "fashion & apparel",
+      "ogImage": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Shaj-Shiri/ShajShiri White.webp",
+      "livePreviewUrl": "https://raw.githubusercontent.com/m34official/MXO/main/assets/projects/Shaj-Shiri/ShajShiri White.mp4",
+      "embedSnippet": "<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1845362322977184&show_text=false&width=320\" width=\"320\" height=\"560\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe>",
+      "isFree": false,
+      "price": null,
+      "currency": "USD",
+      "payWhatYouWant": false,
+      "payWhatYouWantMin": null,
+      "subscriptionTier": null,
+      "supportUrl": null,
+      "issueTrackerUrl": null,
+      "commentsEnabled": true,
+      "createdAt": "2026-11-17",
+      "updatedAt": "2026-11-17"
     }
   ]
 }
